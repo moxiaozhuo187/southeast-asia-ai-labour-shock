@@ -1,8 +1,10 @@
-\# Final Report
+# Final Report
 
-\## Southeast Asia and the AI Labour Shock
+## Southeast Asia and the AI Labour Shock
 
-\### A Comparative Big Data Analysis with China as a Benchmark
+### A Comparative Big Data Analysis with China as a Benchmark
+
+
 
 
 **Course:** STQD6324 Data Management  
@@ -15,7 +17,7 @@
 
 
 
-\## 1. Introduction
+## 1. Introduction
 
 
 
@@ -43,11 +45,11 @@ To answer this, I built two indices — the Employment Vulnerability Index (EVI)
 
 
 
-\## 2. Data Collection and Management
+## 2. Data Collection and Management
 
 
 
-\### 2.1 Data Source
+### 2.1 Data Source
 
 
 
@@ -83,7 +85,7 @@ DRI indicators:
 
 
 
-\### 2.2 Why These Indicators
+### 2.2 Why These Indicators
 
 
 
@@ -103,7 +105,7 @@ The DRI indicators measure whether a country has the basic digital infrastructur
 
 
 
-\### 2.3 Why 2025 Was Excluded
+### 2.3 Why 2025 Was Excluded
 
 
 
@@ -119,7 +121,7 @@ This was not a decision I made upfront. I made it after seeing the coverage resu
 
 
 
-\### 2.4 Missing Value Handling
+### 2.4 Missing Value Handling
 
 
 
@@ -143,7 +145,7 @@ After imputation, the core dataset contained 720 complete rows:
 
 
 
-\### 2.5 Data Management Summary
+### 2.5 Data Management Summary
 
 
 
@@ -175,11 +177,11 @@ All decisions are recorded in `01\_data\_availability\_audit/outputs/data\_decis
 
 
 
-\## 3. Index Construction and Methodology
+## 3. Index Construction and Methodology
 
 
 
-\### 3.1 Overview
+### 3.1 Overview
 
 
 
@@ -191,7 +193,7 @@ The index construction and risk gap calculation were applied to all 9 countries 
 
 
 
-\### 3.2 Normalization
+### 3.2 Normalization
 
 
 
@@ -231,7 +233,7 @@ All normalization decisions — directions, min and max values, and assumptions 
 
 
 
-\### 3.3 Employment Vulnerability Index (EVI)
+### 3.3 Employment Vulnerability Index (EVI)
 
 
 
@@ -277,7 +279,7 @@ The robustness results are in Section 3.6.
 
 
 
-\### 3.4 Digital Readiness Index (DRI)
+### 3.4 Digital Readiness Index (DRI)
 
 
 
@@ -297,7 +299,7 @@ I used equal weights because there is no strong theoretical reason to weight one
 
 
 
-\### 3.5 Risk Gap
+### 3.5 Risk Gap
 
 
 
@@ -321,7 +323,7 @@ One thing to keep in mind: a negative risk gap does not mean a country is fully 
 
 
 
-\### 3.6 Robustness Check
+### 3.6 Robustness Check
 
 
 
@@ -345,7 +347,7 @@ The full comparison is in `02\_index\_calculation/outputs/robustness\_rank\_comp
 
 
 
-\### 3.7 Quadrant Analysis
+### 3.7 Quadrant Analysis
 
 
 
@@ -375,7 +377,7 @@ The quadrant thresholds for 2024 are recorded in `02\_index\_calculation/outputs
 
 
 
-\### 3.8 K-means Clustering
+### 3.8 K-means Clustering
 
 
 
@@ -409,7 +411,7 @@ The cluster labels and thresholds are recorded in `02\_index\_calculation/output
 
 
 
-\### 3.9 Quadrant vs K-means Comparison
+### 3.9 Quadrant vs K-means Comparison
 
 
 
@@ -427,11 +429,11 @@ The full agreement table is in `02\_index\_calculation/outputs/quadrant\_cluster
 
 
 
-\## 4. Analytical Results
+## 4. Analytical Results
 
 
 
-\### 4.1 2024 Risk Gap Overview
+### 4.1 2024 Risk Gap Overview
 
 
 
@@ -455,7 +457,7 @@ China, shown as an external benchmark, also has a slightly negative risk gap. Bu
 
 
 
-\### 4.2 2024 EVI Ranking
+### 4.2 2024 EVI Ranking
 
 
 
@@ -475,7 +477,7 @@ The dashed line in the figure marks the SEA median EVI. Countries above it have 
 
 
 
-\### 4.3 2024 DRI Ranking
+### 4.3 2024 DRI Ranking
 
 
 
@@ -495,7 +497,7 @@ This is important for understanding the risk gap results. Indonesia and Philippi
 
 
 
-\### 4.4 2024 Quadrant Analysis
+### 4.4 2024 Quadrant Analysis
 
 
 
@@ -531,7 +533,7 @@ China is shown in the plot as an external benchmark but does not participate in 
 
 
 
-\### 4.5 K-means Clustering (2019–2024 Average)
+### 4.5 K-means Clustering (2019–2024 Average)
 
 
 
@@ -565,7 +567,7 @@ This cluster has above-median EVI and above-median DRI as a group. However, Indo
 
 
 
-\### 4.6 Quadrant vs K-means Divergence
+### 4.6 Quadrant vs K-means Divergence
 
 
 
@@ -601,7 +603,7 @@ The full comparison table is in `02\_index\_calculation/outputs/quadrant\_cluste
 
 
 
-\### 4.7 Risk Gap Trend (2015–2024)
+### 4.7 Risk Gap Trend (2015–2024)
 
 
 
@@ -649,11 +651,11 @@ The trend chart shows selected countries only. Based on the separate SEA yearly 
 
 
 
-\## 5. Big Data Toolchain Validation
+## 5. Big Data Toolchain Validation
 
 
 
-\### 5.1 Overview
+### 5.1 Overview
 
 
 
@@ -687,7 +689,7 @@ All input files were uploaded to HDFS at `/user/maria\_dev/labour\_shock/input/`
 
 
 
-\### 5.2 Hive Structured Query Validation
+### 5.2 Hive Structured Query Validation
 
 
 
@@ -785,7 +787,7 @@ Screenshots are in `04\_bigdata\_toolchain/screenshots/`.
 
 
 
-\### 5.3 Spark Independent Validation
+### 5.3 Spark Independent Validation
 
 
 
@@ -901,7 +903,7 @@ Screenshots are in `04\_bigdata\_toolchain/screenshots/`.
 
 
 
-\### 5.4 Pig ETL Audit
+### 5.4 Pig ETL Audit
 
 
 
@@ -965,7 +967,7 @@ Screenshots are in `04\_bigdata\_toolchain/screenshots/`.
 
 
 
-\### 5.5 HBase Country-Year Profile Store
+### 5.5 HBase Country-Year Profile Store
 
 
 
@@ -1051,7 +1053,7 @@ Screenshots are in `04\_bigdata\_toolchain/screenshots/`.
 
 
 
-\### 5.6 Toolchain Validation Summary
+### 5.6 Toolchain Validation Summary
 
 
 
@@ -1081,11 +1083,11 @@ This matters because the same results were checked from different angles: Python
 
 
 
-\## 6. Insights and Recommendations
+## 6. Insights and Recommendations
 
 
 
-\### 6.1 Indonesia — Most Urgent Case
+### 6.1 Indonesia — Most Urgent Case
 
 
 
@@ -1109,7 +1111,7 @@ Workforce reskilling is also relevant, but digital infrastructure is the more fo
 
 
 
-\### 6.2 Philippines — The Borderline Case
+### 6.2 Philippines — The Borderline Case
 
 
 
@@ -1129,7 +1131,7 @@ The practical implication is that the Philippines should not be treated as low r
 
 
 
-\### 6.3 Singapore and Thailand — Different Reasons for Similar Positions
+### 6.3 Singapore and Thailand — Different Reasons for Similar Positions
 
 
 
@@ -1153,7 +1155,7 @@ The recommendation here is different for the two countries. Singapore is already
 
 
 
-\### 6.4 Malaysia and Vietnam — High Vulnerability but Better Positioned
+### 6.4 Malaysia and Vietnam — High Vulnerability but Better Positioned
 
 
 
@@ -1177,7 +1179,7 @@ The recommendation is to keep investing in digital infrastructure and workforce 
 
 
 
-\### 6.5 Laos and Cambodia — Low Exposure Now, But Not Prepared
+### 6.5 Laos and Cambodia — Low Exposure Now, But Not Prepared
 
 
 
@@ -1199,7 +1201,7 @@ The window to build digital readiness before that transition happens is now, not
 
 
 
-\### 6.6 China as a Benchmark — What It Shows
+### 6.6 China as a Benchmark — What It Shows
 
 
 
@@ -1219,7 +1221,7 @@ For Southeast Asian countries with high EVI, China is a useful reference point: 
 
 
 
-\### 6.7 General Observation on the Risk Gap Trend
+### 6.7 General Observation on the Risk Gap Trend
 
 
 
@@ -1239,7 +1241,7 @@ Looking at risk gap trends by country rather than regional average is more usefu
 
 
 
-\## 7. Conclusion
+## 7. Conclusion
 
 
 
