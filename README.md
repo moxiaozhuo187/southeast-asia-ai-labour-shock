@@ -10,9 +10,12 @@
 
 ## Why I Did This
 
-I am studying in Malaysia and I have been curious about Southeast Asia for a while — how different the countries are from each other, and how fast things are changing here. When I started thinking about what to do for this project, the question of AI and labour markets felt like something worth actually digging into rather than just reading about.
 
-I added China as an external benchmark because I also wanted to see how the region compares with a country that has gone through rapid industrialisation and strong digital infrastructure development. The result was not what I expected — China ended up with one of the highest employment vulnerability scores, while also having very high digital readiness. That combination made it a more interesting benchmark than I initially thought.
+I am studying in Malaysia and I have been curious about Southeast Asia for a while — not just in terms of which countries are richer or faster-growing, but in terms of how differently their labour markets are structured. When AI started becoming a real topic rather than a future speculation, I kept wondering whether the countries here were actually in very different positions when it came to handling that kind of disruption.
+
+Most of what I read on AI and labour markets focuses on the US or Europe. Southeast Asia gets mentioned as a region that will be affected, but rarely broken down country by country. I wanted to do that with actual data instead of general statements.
+
+I added China as an external benchmark because it felt like a useful reference point — a country that has gone through rapid industrialisation, has a very large labour force, and has been investing heavily in digital infrastructure. What I did not expect was that China would end up with one of the highest employment vulnerability scores in the dataset. After checking the numbers it made sense, but it was a good reminder that high digital readiness does not mean low vulnerability — it just means the two things can coexist.
 
 
 
