@@ -1025,7 +1025,9 @@ All 9 countries' 2024 profiles were written into HBase using a Python script tha
 
 ![HBase IDN 2024 point query](../04_bigdata_toolchain/screenshots/04e_hbase_get_idn.png)
 
+![HBase IDN 2024 point query](../04_bigdata_toolchain/screenshots/04e_hbase_get_chn.png)
 
+![HBase IDN 2024 point query](../04_bigdata_toolchain/screenshots/04e_hbase_get_sgp.png)
 
 ```text
 
