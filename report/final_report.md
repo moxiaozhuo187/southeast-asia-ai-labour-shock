@@ -63,25 +63,25 @@ The 8 indicators split into two groups:
 
 EVI indicators:
 
-\- Industrial employment (% of total employment) — `SL.IND.EMPL.ZS`
+- Industrial employment (% of total employment) — `SL.IND.EMPL.ZS`
 
-\- Agricultural employment (% of total employment) — `SL.AGR.EMPL.ZS`
+- Agricultural employment (% of total employment) — `SL.AGR.EMPL.ZS`
 
-\- Services employment (% of total employment) — `SL.SRV.EMPL.ZS`
+- Services employment (% of total employment) — `SL.SRV.EMPL.ZS`
 
-\- Total unemployment rate — `SL.UEM.TOTL.ZS`
+- Total unemployment rate — `SL.UEM.TOTL.ZS`
 
-\- Youth unemployment rate — `SL.UEM.1524.ZS`
+- Youth unemployment rate — `SL.UEM.1524.ZS`
 
 
 
 DRI indicators:
 
-\- Internet users (% of population) — `IT.NET.USER.ZS`
+- Internet users (% of population) — `IT.NET.USER.ZS`
 
-\- Mobile cellular subscriptions (per 100 people) — `IT.CEL.SETS.P2`
+- Mobile cellular subscriptions (per 100 people) — `IT.CEL.SETS.P2`
 
-\- Fixed broadband subscriptions (per 100 people) — `IT.NET.BBND.P2`
+- Fixed broadband subscriptions (per 100 people) — `IT.NET.BBND.P2`
 
 
 
@@ -155,17 +155,17 @@ The main work in this stage was not fixing messy raw data — World Bank API dat
 
 Main steps:
 
-\- Downloaded raw data via World Bank API (792 rows, 2015–2025)
+- Downloaded raw data via World Bank API (792 rows, 2015–2025)
 
-\- Ran a three-layer coverage audit by indicator, country, and year
+- Ran a three-layer coverage audit by indicator, country, and year
 
-\- Excluded 2025 after the audit showed 63.89% completeness
+- Excluded 2025 after the audit showed 63.89% completeness
 
-\- Applied forward fill for two missing Laos 2024 DRI values
+- Applied forward fill for two missing Laos 2024 DRI values
 
-\- Verified the final 2015–2024 panel had 720 complete rows
+- Verified the final 2015–2024 panel had 720 complete rows
 
-\- Saved audit outputs, imputation records, and a decision summary for reproducibility
+- Saved audit outputs, imputation records, and a decision summary for reproducibility
 
 
 
@@ -331,11 +331,11 @@ To test whether the main EVI results depend on the decision to exclude services 
 
 
 
-\- EVI\_main — no services employment
+- EVI\_main — no services employment
 
-\- EVI\_robust\_010 — services employment at 10% weight
+- EVI\_robust\_010 — services employment at 10% weight
 
-\- EVI\_robust\_020 — services employment at 20% weight
+- EVI\_robust\_020 — services employment at 20% weight
 
 
 
@@ -357,13 +357,13 @@ For the 2024 quadrant analysis, I split countries into four categories using the
 
 ```text
 
-High EVI + Low DRI  → high vulnerability, low readiness
+High EVI + Low DRI → high vulnerability, low readiness
 
 High EVI + High DRI → high vulnerability, high readiness
 
-Low EVI + High DRI  → low vulnerability, high readiness
+Low EVI + High DRI → low vulnerability, high readiness
 
-Low EVI + Low DRI   → low vulnerability, low readiness
+Low EVI + Low DRI → low vulnerability, low readiness
 
 ```
 
@@ -437,7 +437,7 @@ The full agreement table is in `02\_index\_calculation/outputs/quadrant\_cluster
 
 
 
-!\[2024 Risk Gap](../03\_visualization/figures/fig\_2024\_risk\_gap\_bar.png)
+![2024 Risk Gap](../03\_visualization/figures/fig\_2024\_risk\_gap\_bar.png)
 
 
 
@@ -461,7 +461,7 @@ China, shown as an external benchmark, also has a slightly negative risk gap. Bu
 
 
 
-!\[2024 EVI Ranking](../03\_visualization/figures/fig\_2024\_evi\_ranking.png)
+![2024 EVI Ranking](../03\_visualization/figures/fig\_2024\_evi\_ranking.png)
 
 
 
@@ -481,7 +481,7 @@ The dashed line in the figure marks the SEA median EVI. Countries above it have 
 
 
 
-!\[2024 DRI Ranking](../03\_visualization/figures/fig\_2024\_dri\_ranking.png)
+![2024 DRI Ranking](../03\_visualization/figures/fig\_2024\_dri\_ranking.png)
 
 
 
@@ -501,7 +501,7 @@ This is important for understanding the risk gap results. Indonesia and Philippi
 
 
 
-!\[2024 Quadrant Matrix](../03\_visualization/figures/fig\_2024\_readiness\_matrix.png)
+![2024 Quadrant Matrix](../03\_visualization/figures/fig\_2024\_readiness\_matrix.png)
 
 
 
@@ -537,7 +537,7 @@ China is shown in the plot as an external benchmark but does not participate in 
 
 
 
-!\[K-means Clustering](../03\_visualization/figures/fig\_kmeans\_scatter\_2019\_2024.png)
+![K-means Clustering](../03\_visualization/figures/fig\_kmeans\_scatter\_2019\_2024.png)
 
 
 
@@ -545,19 +545,19 @@ The K-means result groups the eight Southeast Asian countries into three cluster
 
 
 
-\*\*Cluster: Low vulnerability, High readiness — Singapore, Thailand\*\*  
+**Cluster: Low vulnerability, High readiness — Singapore, Thailand**  
 
 Both countries have below-median EVI and above-median DRI. Thailand's inclusion here might look surprising given that it is not as digitally advanced as Singapore in general terms. But K-means groups by indicator values, not by general development level. Thailand's high mobile subscription rate pushed its DRI up enough to place it in the same cluster as Singapore.
 
 
 
-\*\*Cluster: Low vulnerability, Low readiness — Cambodia, Laos, Philippines\*\*  
+**Cluster: Low vulnerability, Low readiness — Cambodia, Laos, Philippines**  
 
 This cluster is mainly characterised by low digital readiness. Laos and Cambodia have clearly low EVI and low DRI. The Philippines is more borderline because its EVI is higher than Laos and Cambodia, but its overall EVI-DRI position is still closer to this group than to the other clusters. This is why K-means groups the Philippines with Laos and Cambodia, even though the quadrant analysis places the Philippines in a higher-risk category.
 
 
 
-\*\*Cluster: High vulnerability, High readiness — Malaysia, Vietnam, Indonesia\*\*  
+**Cluster: High vulnerability, High readiness — Malaysia, Vietnam, Indonesia**  
 
 This cluster has above-median EVI and above-median DRI as a group. However, Indonesia is in this cluster because of its high EVI, not because of strong DRI. Its DRI is noticeably lower than Malaysia and Vietnam. The cluster centroid is pulled up by Malaysia and Vietnam, so the cluster label describes the group-level pattern better than Indonesia's individual profile. This is one of the reasons Indonesia appears as a divergent case in the quadrant vs K-means comparison.
 
@@ -607,7 +607,7 @@ The full comparison table is in `02\_index\_calculation/outputs/quadrant\_cluste
 
 
 
-!\[Risk Gap Trend](../03\_visualization/figures/fig\_risk\_gap\_trend\_selected\_2015\_2024.png)
+![Risk Gap Trend](../03\_visualization/figures/fig\_risk\_gap\_trend\_selected\_2015\_2024.png)
 
 
 
@@ -667,13 +667,13 @@ Each tool had a specific role:
 
 
 
-\- \*\*Hive\*\* — structured SQL validation of row counts, rankings, and trends
+- **Hive** — structured SQL validation of row counts, rankings, and trends
 
-\- \*\*Spark\*\* — independent recalculation of EVI, DRI, and risk gap from the long-format core indicator data, plus K-means reproducibility check
+- **Spark** — independent recalculation of EVI, DRI, and risk gap from the long-format core indicator data, plus K-means reproducibility check
 
-\- \*\*Pig\*\* — lightweight ETL audit of the long-format core indicator dataset
+- **Pig** — lightweight ETL audit of the long-format core indicator dataset
 
-\- \*\*HBase\*\* — NoSQL country-year profile store for key-based lookup
+- **HBase** — NoSQL country-year profile store for key-based lookup
 
 
 
@@ -697,11 +697,11 @@ Hive external tables were created pointing directly to the HDFS CSV files. Three
 
 
 
-\- `country\_year\_index` — the full EVI/DRI/risk gap panel (90 rows)
+- `country\_year\_index` — the full EVI/DRI/risk gap panel (90 rows)
 
-\- `core\_long` — the long-format core indicator dataset (720 rows)
+- `core\_long` — the long-format core indicator dataset (720 rows)
 
-\- `sea\_cluster` — the K-means cluster result (8 rows)
+- `sea\_cluster` — the K-means cluster result (8 rows)
 
 
 
@@ -709,11 +709,11 @@ Tables were created in Hive CLI because DDL execution in Zeppelin `%sh` was inte
 
 
 
-\*\*Row count validation\*\*
+**Row count validation**
 
 
 
-!\[Hive row count validation](../04\_bigdata\_toolchain/screenshots/04b\_hive\_row\_count.png)
+![Hive row count validation](../04\_bigdata\_toolchain/screenshots/04b\_hive\_row\_count.png)
 
 
 
@@ -737,7 +737,7 @@ This matches the expected structure: 9 countries × 10 years = 90 index rows, an
 
 
 
-\*\*2024 risk gap ranking\*\*
+**2024 risk gap ranking**
 
 
 
@@ -745,11 +745,11 @@ The Hive query reproduced the same 2024 risk gap ranking as the Python output. I
 
 
 
-!\[Hive 2024 risk gap ranking](../04\_bigdata\_toolchain/screenshots/04b\_hive\_risk\_gap\_ranking.png)
+![Hive 2024 risk gap ranking](../04\_bigdata\_toolchain/screenshots/04b\_hive\_risk\_gap\_ranking.png)
 
 
 
-\*\*China benchmark trend\*\*
+**China benchmark trend**
 
 
 
@@ -757,7 +757,7 @@ The Hive query on China's 2015–2024 EVI, DRI, and risk gap confirmed the same 
 
 
 
-\*\*Indicator group audit\*\*
+**Indicator group audit**
 
 
 
@@ -799,25 +799,25 @@ The steps were:
 
 
 
-1\. Read `tool\_core\_long\_2015\_2024.csv` from HDFS
+1. Read `tool\_core\_long\_2015\_2024.csv` from HDFS
 
-2\. Map indicator codes to short variable names
+2. Map indicator codes to short variable names
 
-3\. Pivot the long table into a country-year wide table (90 rows)
+3. Pivot the long table into a country-year wide table (90 rows)
 
-4\. Apply `MinMaxScaler` normalization across all 9 countries and 10 years
+4. Apply `MinMaxScaler` normalization across all 9 countries and 10 years
 
-5\. Calculate EVI, DRI, and risk gap using the same weights and formula as the Python pipeline
+5. Calculate EVI, DRI, and risk gap using the same weights and formula as the Python pipeline
 
-6\. Compare Spark results against the Python-generated index table
-
-
-
-\*\*Index recalculation result\*\*
+6. Compare Spark results against the Python-generated index table
 
 
 
-!\[Spark vs Python index validation](../04\_bigdata\_toolchain/screenshots/04c\_spark\_python\_max\_diff.png)
+**Index recalculation result**
+
+
+
+![Spark vs Python index validation](../04\_bigdata\_toolchain/screenshots/04c\_spark\_python\_max\_diff.png)
 
 
 
@@ -841,7 +841,7 @@ Spark reproduced the Python-generated EVI, DRI, and risk gap values with zero nu
 
 
 
-\*\*2024 risk gap ranking\*\*
+**2024 risk gap ranking**
 
 
 
@@ -849,7 +849,7 @@ The Spark-reproduced 2024 risk gap ranking matched the Python and Hive results e
 
 
 
-\*\*K-means reproducibility\*\*
+**K-means reproducibility**
 
 
 
@@ -861,7 +861,7 @@ To address this, I tested multiple random seeds in Spark and selected the model 
 
 
 
-!\[Spark K-means agreement](../04\_bigdata\_toolchain/screenshots/04c\_spark\_kmeans\_agreement.png)
+![Spark K-means agreement](../04\_bigdata\_toolchain/screenshots/04c\_spark\_kmeans\_agreement.png)
 
 
 
@@ -887,7 +887,7 @@ One important distinction: this 8/8 agreement is between Spark K-means and Pytho
 
 
 
-\*\*SEA yearly average trend\*\*
+**SEA yearly average trend**
 
 
 
@@ -919,19 +919,19 @@ The Pig script loaded the no-header long-format file, filtered records to the fo
 
 
 
-\*\*Audit results\*\*
+**Audit results**
 
 
 
-!\[Pig total row count](../04\_bigdata\_toolchain/screenshots/04d\_pig\_total\_count.png)
+![Pig total row count](../04\_bigdata\_toolchain/screenshots/04d\_pig\_total\_count.png)
 
 
 
-!\[Pig indicator group audit](../04\_bigdata\_toolchain/screenshots/04d\_pig\_indicator\_count.png)
+![Pig indicator group audit](../04\_bigdata\_toolchain/screenshots/04d\_pig\_indicator\_count.png)
 
 
 
-!\[Pig country audit](../04\_bigdata\_toolchain/screenshots/04d\_pig\_country\_audit.png)
+![Pig country audit](../04\_bigdata\_toolchain/screenshots/04d\_pig\_country\_audit.png)
 
 
 
@@ -975,7 +975,7 @@ HBase was used as an optional NoSQL profile store for selected country-year inde
 
 
 
-\*\*Table design\*\*
+**Table design**
 
 
 
@@ -995,13 +995,13 @@ vulnerability → evi\_main
 
 readiness → dri
 
-result        → risk\_gap
+result  → risk\_gap
 
 ```
 
 
 
-!\[HBase table schema](../04\_bigdata\_toolchain/screenshots/04e\_hbase\_table\_schema.png)
+![HBase table schema](../04\_bigdata\_toolchain/screenshots/04e\_hbase\_table\_schema.png)
 
 
 
@@ -1009,7 +1009,7 @@ The column families were separated by analytical purpose — meta for identifier
 
 
 
-\*\*2024 profiles stored\*\*
+**2024 profiles stored**
 
 
 
@@ -1017,15 +1017,15 @@ All 9 countries' 2024 profiles were written into HBase using a Python script tha
 
 
 
-!\[HBase row count](../04\_bigdata\_toolchain/screenshots/04e\_hbase\_row\_count.png)
+![HBase row count](../04\_bigdata\_toolchain/screenshots/04e\_hbase\_row\_count.png)
 
 
 
-\*\*Point query results\*\*
+**Point query results**
 
 
 
-!\[HBase IDN 2024 point query](../04\_bigdata\_toolchain/screenshots/04e\_hbase\_get\_idn.png)
+![HBase IDN 2024 point query](../04\_bigdata\_toolchain/screenshots/04e\_hbase\_get\_idn.png)
 
 
 
