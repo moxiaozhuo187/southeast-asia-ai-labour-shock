@@ -243,17 +243,11 @@ The main EVI uses four indicators:
 
 
 ```text
-
-EVI\_main = 0.30 × ind\_emp\_n
-
-&#x20;        + 0.20 × agr\_emp\_n
-
-&#x20;        + 0.25 × unemp\_n
-
-&#x20;        + 0.25 × youth\_unemp\_n
-
+EVI_main = 0.30 × ind_emp_n
+         + 0.20 × agr_emp_n
+         + 0.25 × unemp_n
+         + 0.25 × youth_unemp_n
 ```
-
 
 
 Where `\_n` means the normalized version of each indicator.
