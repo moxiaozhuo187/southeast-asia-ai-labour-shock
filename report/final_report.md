@@ -981,21 +981,21 @@ HBase was used as an optional NoSQL profile store for selected country-year inde
 
 ```text
 
-Table name: labour\_profile
+Table name: labour_profile
 
-Row key:  country\_code#year  (e.g. IDN#2024, CHN#2024, SGP#2024)
+Row key:  country_code#year  (e.g. IDN#2024, CHN#2024, SGP#2024)
 
 
 
 Column families:
 
-meta → country\_name, is\_benchmark, year
+meta → country_name, is_benchmark, year
 
-vulnerability → evi\_main
+vulnerability → evi_main
 
 readiness → dri
 
-result  → risk\_gap
+result  → risk_gap
 
 ```
 
@@ -1031,11 +1031,11 @@ All 9 countries' 2024 profiles were written into HBase using a Python script tha
 
 ```text
 
-IDN#2024: evi\_main = 0.5992, dri = 0.4575, risk\_gap = 0.1417
+IDN#2024: evi_main = 0.5992, dri = 0.4575, risk_gap = 0.1417
 
-CHN#2024: evi\_main = 0.7786, dri = 0.8511, risk\_gap = -0.0724
+CHN#2024: evi_main = 0.7786, dri = 0.8511, risk_gap = -0.0724
 
-SGP#2024: evi\_main = 0.3068, dri = 0.8224, risk\_gap = -0.5156
+SGP#2024: evi_main = 0.3068, dri = 0.8224, risk_gap = -0.5156
 
 ```
 
@@ -1058,15 +1058,10 @@ Screenshots are in `04\_bigdata\_toolchain/screenshots/`.
 
 
 | Tool | Role | Key Result |
-
 |------|------|-----------|
-
 | Hive | SQL row count and ranking validation | Row counts matched, 2024 ranking consistent with Python |
-
-| Spark | Independent index recalculation and K-means reproducibility | max\_diff = 0.0, K-means 8/8 agreement |
-
+| Spark | Independent index recalculation and K-means reproducibility | max_diff = 0.0, K-means 8/8 agreement |
 | Pig | ETL audit of long-format dataset structure | 720 rows confirmed, EVI/DRI split correct |
-
 | HBase | NoSQL country-year profile lookup | 9 profiles stored, point queries consistent with Python output |
 
 
