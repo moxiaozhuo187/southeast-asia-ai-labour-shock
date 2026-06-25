@@ -726,9 +726,9 @@ The first query confirmed that all three tables loaded correctly:
 
 country\_year\_index = 90 rows
 
-core\_long          = 720 rows
+core\_long = 720 rows
 
-sea\_cluster        = 8 rows
+sea\_cluster = 8 rows
 
 ```
 
@@ -828,9 +828,9 @@ The comparison between Spark and Python produced:
 
 ```text
 
-max\_evi\_diff      = 0.0
+max\_evi\_diff = 0.0
 
-max\_dri\_diff      = 0.0
+max\_dri\_diff = 0.0
 
 max\_risk\_gap\_diff = 0.0
 
@@ -872,7 +872,7 @@ The final Spark MLlib K-means result was compared against the Python/sklearn bas
 
 ```text
 
-Same      = 8
+Same = 8
 
 Different = 0
 
@@ -938,19 +938,19 @@ The Pig script loaded the no-header long-format file, filtered records to the fo
 
 ```text
 
-Total rows    = 720
+Total rows = 720
 
-EVI records   = 450
+EVI records = 450
 
-DRI records   = 270
+DRI records = 270
 
 
 
 Per country:
 
-EVI = 50 rows  (5 indicators × 10 years)
+EVI = 50 rows (5 indicators × 10 years)
 
-DRI = 30 rows  (3 indicators × 10 years)
+DRI = 30 rows (3 indicators × 10 years)
 
 ```
 
@@ -984,17 +984,17 @@ HBase was used as an optional NoSQL profile store for selected country-year inde
 
 Table name: labour\_profile
 
-Row key:    country\_code#year  (e.g. IDN#2024, CHN#2024, SGP#2024)
+Row key:  country\_code#year  (e.g. IDN#2024, CHN#2024, SGP#2024)
 
 
 
 Column families:
 
-meta          → country\_name, is\_benchmark, year
+meta → country\_name, is\_benchmark, year
 
 vulnerability → evi\_main
 
-readiness     → dri
+readiness → dri
 
 result        → risk\_gap
 
@@ -1032,11 +1032,11 @@ All 9 countries' 2024 profiles were written into HBase using a Python script tha
 
 ```text
 
-IDN#2024:  evi\_main = 0.5992, dri = 0.4575, risk\_gap = 0.1417
+IDN#2024: evi\_main = 0.5992, dri = 0.4575, risk\_gap = 0.1417
 
-CHN#2024:  evi\_main = 0.7786, dri = 0.8511, risk\_gap = -0.0724
+CHN#2024: evi\_main = 0.7786, dri = 0.8511, risk\_gap = -0.0724
 
-SGP#2024:  evi\_main = 0.3068, dri = 0.8224, risk\_gap = -0.5156
+SGP#2024: evi\_main = 0.3068, dri = 0.8224, risk\_gap = -0.5156
 
 ```
 
