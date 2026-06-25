@@ -117,7 +117,7 @@ Including 2025 would have made the DRI calculation unreliable for the most recen
 
 
 
-This was not a decision I made upfront. I made it after seeing the coverage results. The raw data, audit files, and the full reasoning are documented in `01\_data\_availability\_audit/outputs/data\_decision\_summary.txt`.
+This was not a decision I made upfront. I made it after seeing the coverage results. The raw data, audit files, and the full reasoning are documented in `01_data_availability_audit/outputs/data_decision_summary.txt`.
 
 
 
@@ -129,7 +129,7 @@ After restricting the dataset to 2015–2024, the core indicator panel had only 
 
 
 
-I used forward fill to impute these — the 2023 values were carried forward to 2024. This is a reasonable assumption for slowly changing infrastructure indicators, but it is still an assumption. I documented both the imputation method and its limitations in `01\_data\_availability\_audit/outputs/worldbank\_imputation\_audit\_2015\_2024.csv`.
+I used forward fill to impute these — the 2023 values were carried forward to 2024. This is a reasonable assumption for slowly changing infrastructure indicators, but it is still an assumption. I documented both the imputation method and its limitations in `01_data_availability_audit/outputs/worldbank_imputation_audit_2015_2024.csv`.
 
 
 
@@ -169,7 +169,7 @@ Main steps:
 
 
 
-All decisions are recorded in `01\_data\_availability\_audit/outputs/data\_decision\_summary.txt`. This file was auto-generated during the audit run, so the content matches the actual processing steps exactly.
+All decisions are recorded in `01_data_availability_audit/outputs/data_decision_summary.txt`. This file was auto-generated during the audit run, so the content matches the actual processing steps exactly.
 
 
 
@@ -229,7 +229,7 @@ Services employment is the exception. A higher service employment share could me
 
 
 
-All normalization decisions — directions, min and max values, and assumptions — are recorded in `02\_index\_calculation/outputs/normalization\_metadata\_2015\_2024.csv`.
+All normalization decisions — directions, min and max values, and assumptions — are recorded in `02_index_calculation/outputs/normalization_metadata_2015_2024.csv`.
 
 
 
@@ -249,7 +249,7 @@ EVI_main = 0.30 × ind_emp_n
 ```
 
 
-Where `\_n` means the normalized version of each indicator.
+Where `_n` means the normalized version of each indicator.
 
 
 
@@ -257,7 +257,7 @@ The weights reflect how directly each indicator relates to AI-related labour vul
 
 
 
-These are project-defined analytical weights, not official weights. They are documented in `02\_index\_calculation/outputs/index\_formula\_metadata\_2015\_2024.csv`.
+These are project-defined analytical weights, not official weights. They are documented in `02_index_calculation/outputs/index_formula_metadata_2015_2024.csv`.
 
 
 
@@ -343,7 +343,7 @@ Results showed that 5 out of 9 countries had identical rankings across all three
 
 
 
-The full comparison is in `02\_index\_calculation/outputs/robustness\_rank\_comparison\_2024.csv`.
+The full comparison is in `02_index_calculation/outputs/robustness_rank_comparison_2024.csv`.
 
 
 
@@ -373,7 +373,7 @@ China is shown in the quadrant plot but does not participate in the threshold ca
 
 
 
-The quadrant thresholds for 2024 are recorded in `02\_index\_calculation/outputs/quadrant\_threshold\_metadata\_2024.csv`.
+The quadrant thresholds for 2024 are recorded in `02_index_calculation/outputs/quadrant_threshold_metadata_2024.csv`.
 
 
 
@@ -407,7 +407,7 @@ Example: High vulnerability - Low readiness
 
 
 
-The cluster labels and thresholds are recorded in `02\_index\_calculation/outputs/cluster\_label\_threshold\_metadata\_2019\_2024.csv`.
+The cluster labels and thresholds are recorded in `02_index_calculation/outputs/cluster_label_threshold_metadata_2019_2024.csv`.
 
 
 
@@ -423,7 +423,7 @@ The result was 6 out of 8 countries matched. Indonesia and the Philippines were 
 
 
 
-The full agreement table is in `02\_index\_calculation/outputs/quadrant\_cluster\_agreement\_2019\_2024.csv`.
+The full agreement table is in `02_index_calculation/outputs/quadrant_cluster_agreement_2019_2024.csv`.
 
 
 
@@ -437,7 +437,7 @@ The full agreement table is in `02\_index\_calculation/outputs/quadrant\_cluster
 
 
 
-![2024 Risk Gap](../03\_visualization/figures/fig\_2024\_risk\_gap\_bar.png)
+![2024 Risk Gap](../03_visualization/figures/fig_2024_risk_gap_bar.png)
 
 
 
@@ -461,7 +461,7 @@ China, shown as an external benchmark, also has a slightly negative risk gap. Bu
 
 
 
-![2024 EVI Ranking](../03\_visualization/figures/fig\_2024\_evi\_ranking.png)
+![2024 EVI Ranking](../03_visualization/figures/fig_2024_evi_ranking.png)
 
 
 
@@ -481,7 +481,7 @@ The dashed line in the figure marks the SEA median EVI. Countries above it have 
 
 
 
-![2024 DRI Ranking](../03\_visualization/figures/fig\_2024\_dri\_ranking.png)
+![2024 DRI Ranking](../03_visualization/figures/fig_2024_dri_ranking.png)
 
 
 
@@ -501,7 +501,7 @@ This is important for understanding the risk gap results. Indonesia and Philippi
 
 
 
-![2024 Quadrant Matrix](../03\_visualization/figures/fig\_2024\_readiness\_matrix.png)
+![2024 Quadrant Matrix](../03_visualization/figures/fig_2024_readiness_matrix.png)
 
 
 
@@ -537,7 +537,7 @@ China is shown in the plot as an external benchmark but does not participate in 
 
 
 
-![K-means Clustering](../03\_visualization/figures/fig\_kmeans\_scatter\_2019\_2024.png)
+![K-means Clustering](../03_visualization/figures/fig_kmeans_scatter_2019_2024.png)
 
 
 
@@ -595,7 +595,7 @@ The practical takeaway is that threshold-based classification and distance-based
 
 
 
-The full comparison table is in `02\_index\_calculation/outputs/quadrant\_cluster\_agreement\_2019\_2024.csv`.
+The full comparison table is in `02_index_calculation/outputs/quadrant_cluster_agreement_2019_2024.csv`.
 
 
 
@@ -607,7 +607,7 @@ The full comparison table is in `02\_index\_calculation/outputs/quadrant\_cluste
 
 
 
-![Risk Gap Trend](../03\_visualization/figures/fig\_risk\_gap\_trend\_selected\_2015\_2024.png)
+![Risk Gap Trend](../03_visualization/figures/fig_risk_gap_trend_selected_2015_2024.png)
 
 
 
@@ -681,7 +681,7 @@ The input files for the Hadoop toolchain were prepared in `04\_bigdata\_toolchai
 
 
 
-All input files were uploaded to HDFS at `/user/maria\_dev/labour\_shock/input/`.
+All input files were uploaded to HDFS at `/user/maria_dev/labour_shock/input/`.
 
 
 
@@ -713,7 +713,7 @@ Tables were created in Hive CLI because DDL execution in Zeppelin `%sh` was inte
 
 
 
-![Hive row count validation](../04\_bigdata\_toolchain/screenshots/04b\_hive\_row\_count.png)
+![Hive row count validation](../04_bigdata_toolchain/screenshots/04b_hive_row_count.png)
 
 
 
@@ -745,7 +745,7 @@ The Hive query reproduced the same 2024 risk gap ranking as the Python output. I
 
 
 
-![Hive 2024 risk gap ranking](../04\_bigdata\_toolchain/screenshots/04b\_hive\_risk\_gap\_ranking.png)
+![Hive 2024 risk gap ranking](../04_bigdata_toolchain/screenshots/04b_hive_risk_gap_ranking.png)
 
 
 
@@ -779,7 +779,7 @@ This matches the expected long-format structure exactly.
 
 
 
-Screenshots are in `04\_bigdata\_toolchain/screenshots/`.
+Screenshots are in `04_bigdata_toolchain/screenshots/`.
 
 
 
@@ -799,7 +799,7 @@ The steps were:
 
 
 
-1. Read `tool\_core\_long\_2015\_2024.csv` from HDFS
+1. Read `tool_core_long_2015_2024.csv` from HDFS
 
 2. Map indicator codes to short variable names
 
@@ -817,7 +817,7 @@ The steps were:
 
 
 
-![Spark vs Python index validation](../04\_bigdata\_toolchain/screenshots/04c\_spark\_python\_max\_diff.png)
+![Spark vs Python index validation](../04_bigdata_toolchain/screenshots/04c_spark_python_max_diff.png)
 
 
 
@@ -861,7 +861,7 @@ To address this, I tested multiple random seeds in Spark and selected the model 
 
 
 
-![Spark K-means agreement](../04\_bigdata\_toolchain/screenshots/04c\_spark\_kmeans\_agreement.png)
+![Spark K-means agreement](../04_bigdata_toolchain/screenshots/04c_spark_kmeans_agreement.png)
 
 
 
@@ -895,7 +895,7 @@ Spark also reproduced the SEA yearly average EVI, DRI, and risk gap from 2015 to
 
 
 
-Screenshots are in `04\_bigdata\_toolchain/screenshots/`.
+Screenshots are in `04_bigdata_toolchain/screenshots/`.
 
 
 
@@ -923,15 +923,15 @@ The Pig script loaded the no-header long-format file, filtered records to the fo
 
 
 
-![Pig total row count](../04\_bigdata\_toolchain/screenshots/04d\_pig\_total\_count.png)
+![Pig total row count](../04_bigdata_toolchain/screenshots/04d_pig_total_count.png)
 
 
 
-![Pig indicator group audit](../04\_bigdata\_toolchain/screenshots/04d\_pig\_indicator\_count.png)
+![Pig indicator group audit](../04_bigdata_toolchain/screenshots/04d_pig_indicator_count.png)
 
 
 
-![Pig country audit](../04\_bigdata\_toolchain/screenshots/04d\_pig\_country\_audit.png)
+![Pig country audit](../04_bigdata_toolchain/screenshots/04d_pig_country_audit.png)
 
 
 
@@ -958,7 +958,7 @@ All counts matched the expected structure exactly, confirming that the long-form
 
 
 
-Screenshots are in `04\_bigdata\_toolchain/screenshots/`.
+Screenshots are in `04_bigdata_toolchain/screenshots/`.
 
 
 
@@ -999,7 +999,7 @@ result → risk_gap
 
 
 
-![HBase table schema](../04\_bigdata\_toolchain/screenshots/04e\_hbase\_table\_schema.png)
+![HBase table schema](../04_bigdata_toolchain/screenshots/04e_hbase_table_schema.png)
 
 
 
@@ -1015,7 +1015,7 @@ All 9 countries' 2024 profiles were written into HBase using a Python script tha
 
 
 
-![HBase row count](../04\_bigdata\_toolchain/screenshots/04e\_hbase\_row\_count.png)
+![HBase row count](../04_bigdata_toolchain/screenshots/04e_hbase_row_count.png)
 
 
 
@@ -1023,7 +1023,7 @@ All 9 countries' 2024 profiles were written into HBase using a Python script tha
 
 
 
-![HBase IDN 2024 point query](../04\_bigdata\_toolchain/screenshots/04e\_hbase\_get\_idn.png)
+![HBase IDN 2024 point query](../04_bigdata_toolchain/screenshots/04e_hbase_get_idn.png)
 
 
 
@@ -1043,7 +1043,7 @@ These results are consistent with the Python, Hive, and Spark outputs. Indonesia
 
 
 
-Screenshots are in `04\_bigdata\_toolchain/screenshots/`.
+Screenshots are in `04_bigdata_toolchain/screenshots/`.
 
 
 
@@ -1263,4 +1263,3 @@ The data and tools used here have real limitations. The indicators are proxies, 
 
 
 These limitations do not invalidate the findings, but they mean the results should be read as a structured comparison rather than a precise prediction. The main value of this kind of index-based analysis is in identifying relative positions and trends, not in generating point estimates of risk.
-
