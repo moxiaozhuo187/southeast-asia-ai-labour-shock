@@ -55,7 +55,7 @@ Regionally, the average risk gap turned negative around 2018–2019, meaning dig
 
 ## Data Source
 
-World Bank Open Data API — one of the approved sources for this assignment.
+World Bank Open Data API ([https://data.worldbank.org](https://data.worldbank.org)) 
 
 ```text
 9 countries × 8 indicators × 2015–2025 downloaded (72 API requests)
