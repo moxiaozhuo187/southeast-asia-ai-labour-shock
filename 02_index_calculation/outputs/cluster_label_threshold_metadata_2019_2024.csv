@@ -1,0 +1,3 @@
+﻿threshold_name,value,based_on,note
+sea_evi_avg_cut,0.4038082624797934,2019-2024 SEA country average median,"Used only for interpreting K-means clusters, not for fitting the K-means model."
+sea_dri_avg_cut,0.5406455588406893,2019-2024 SEA country average median,China is excluded because K-means clustering is SEA-only.

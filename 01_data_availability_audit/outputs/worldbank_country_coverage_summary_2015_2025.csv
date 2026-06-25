@@ -1,0 +1,10 @@
+﻿country_code,country_name,is_benchmark,total_data_points,available_data_points,missing_data_points,overall_coverage_rate
+IDN,Indonesia,False,88,85,3,0.9659090909090909
+KHM,Cambodia,False,88,85,3,0.9659090909090909
+MYS,Malaysia,False,88,85,3,0.9659090909090909
+PHL,Philippines,False,88,85,3,0.9659090909090909
+SGP,Singapore,False,88,85,3,0.9659090909090909
+THA,Thailand,False,88,85,3,0.9659090909090909
+VNM,Vietnam,False,88,85,3,0.9659090909090909
+LAO,Laos,False,88,83,5,0.9431818181818182
+CHN,China,True,88,86,2,0.9772727272727273

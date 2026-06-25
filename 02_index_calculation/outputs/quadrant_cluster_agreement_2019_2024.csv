@@ -1,0 +1,9 @@
+﻿country_code,country_name,evi_main_avg,dri_avg,risk_gap_avg,avg_readiness_quadrant,quadrant_2024,cluster,cluster_label,method_agreement
+IDN,Indonesia,0.6242889399019711,0.4245482586842282,0.19974068121774288,High vulnerability + Low readiness,High vulnerability + Low readiness,2,High vulnerability - High readiness,Different
+LAO,Laos,0.3239943451999581,0.23955341059667276,0.08444093460328535,Low vulnerability + Low readiness,Low vulnerability + Low readiness,1,Low vulnerability - Low readiness,Same
+MYS,Malaysia,0.613802009149706,0.6170937805815537,-0.00329177143184776,High vulnerability + High readiness,High vulnerability + High readiness,2,High vulnerability - High readiness,Same
+PHL,Philippines,0.42234225654931995,0.4726016007478064,-0.05025934419848636,High vulnerability + Low readiness,High vulnerability + Low readiness,1,Low vulnerability - Low readiness,Different
+KHM,Cambodia,0.32661966848366436,0.3966416790339462,-0.07002201055028189,Low vulnerability + Low readiness,Low vulnerability + Low readiness,1,Low vulnerability - Low readiness,Same
+VNM,Vietnam,0.5348072755152894,0.6086895169335723,-0.07388224141828292,High vulnerability + High readiness,High vulnerability + High readiness,2,High vulnerability - High readiness,Same
+THA,Thailand,0.3645496895088358,0.6923181541666491,-0.32776846465781323,Low vulnerability + High readiness,Low vulnerability + High readiness,0,Low vulnerability - High readiness,Same
+SGP,Singapore,0.3852742684102668,0.7992306774382394,-0.41395640902797265,Low vulnerability + High readiness,Low vulnerability + High readiness,0,Low vulnerability - High readiness,Same

@@ -1,0 +1,9 @@
+﻿indicator_group,indicator_code,indicator_name,total_rows,missing_after_cleaning,imputed_values,clean_coverage_rate
+DRI,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),90,0,1,1.0
+DRI,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),90,0,1,1.0
+DRI,IT.NET.USER.ZS,Individuals using the Internet (% of population),90,0,0,1.0
+EVI,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),90,0,0,1.0
+EVI,SL.IND.EMPL.ZS,Employment in industry (% of total employment),90,0,0,1.0
+EVI,SL.SRV.EMPL.ZS,Employment in services (% of total employment),90,0,0,1.0
+EVI,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),90,0,0,1.0
+EVI,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",90,0,0,1.0

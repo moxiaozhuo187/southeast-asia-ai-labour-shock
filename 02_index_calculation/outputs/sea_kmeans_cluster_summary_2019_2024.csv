@@ -1,0 +1,4 @@
+﻿cluster,country_count,avg_evi,avg_dri,avg_risk_gap,cluster_label
+2,3,0.5909660748556554,0.550110518733118,0.0408555561225374,High vulnerability - High readiness
+1,3,0.3576520900776475,0.3695988967928085,-0.011946806715160964,Low vulnerability - Low readiness
+0,2,0.3749119789595513,0.7457744158024442,-0.37086243684289294,Low vulnerability - High readiness

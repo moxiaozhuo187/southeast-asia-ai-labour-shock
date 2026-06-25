@@ -1,0 +1,3 @@
+﻿country_code,country_name,is_benchmark,indicator_code,indicator_name,indicator_group,year,value,source,is_missing,value_original,was_missing_originally,value_cleaned,was_imputed,impute_method,missing_position,latest_year_in_series,imputation_assumption
+LAO,Laos,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2024,,World Bank API,True,,True,64.7588066942788,True,ffill,end_of_series,2024,previous available year is used as a conservative proxy
+LAO,Laos,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2024,,World Bank API,True,,True,2.72021122524182,True,ffill,end_of_series,2024,previous available year is used as a conservative proxy

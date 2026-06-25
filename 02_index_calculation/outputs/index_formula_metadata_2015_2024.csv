@@ -1,0 +1,6 @@
+﻿index_name,formula,purpose,note
+evi_main,0.30*ind_emp_n+0.20*agr_emp_n+0.25*unemp_n+0.25*youth_unemp_n,Main employment vulnerability index,Service employment is excluded from the main EVI because it does not distinguish high-skill and low-skill service jobs.
+evi_robust_010,0.90*evi_main+0.10*srv_emp_n,Robustness check,Tests whether adding service employment at 10% weight changes the ranking while preserving the main EVI structure.
+evi_robust_020,0.80*evi_main+0.20*srv_emp_n,Robustness check,Tests whether adding service employment at 20% weight changes the ranking while preserving the main EVI structure.
+dri,(net_user_n+mobile_sub_n+broadband_n)/3,Digital readiness index,All three digital readiness indicators are equally weighted.
+risk_gap,evi_main-dri,Gap between employment vulnerability and digital readiness,Higher values indicate higher vulnerability relative to readiness.

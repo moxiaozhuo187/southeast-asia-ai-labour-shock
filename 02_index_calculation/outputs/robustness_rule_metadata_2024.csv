@@ -1,0 +1,3 @@
+﻿check_item,service_weight,tolerance_rank_change,rule_note
+evi_robust_010,0.1,1,A maximum rank change of 1 is treated as generally stable under the predefined tolerance rule.
+evi_robust_020,0.2,2,A maximum rank change of 2 is treated as generally stable under the predefined tolerance rule.

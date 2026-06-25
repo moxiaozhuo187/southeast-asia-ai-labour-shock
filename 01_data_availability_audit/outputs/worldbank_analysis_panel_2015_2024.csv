@@ -1,0 +1,721 @@
+﻿country_code,country_name,is_benchmark,indicator_code,indicator_name,indicator_group,year,value,source,is_missing
+MYS,Malaysia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2015,27.5188412788598,World Bank API,False
+MYS,Malaysia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2016,27.4867972058341,World Bank API,False
+MYS,Malaysia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2017,27.7174531720201,World Bank API,False
+MYS,Malaysia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2018,27.1110391043493,World Bank API,False
+MYS,Malaysia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2019,27.9242134883929,World Bank API,False
+MYS,Malaysia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2020,26.1668675751684,World Bank API,False
+MYS,Malaysia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2021,25.9296867517211,World Bank API,False
+MYS,Malaysia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2022,26.0718420292351,World Bank API,False
+MYS,Malaysia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2023,25.9966868796068,World Bank API,False
+MYS,Malaysia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2024,26.0022237887699,World Bank API,False
+MYS,Malaysia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2015,12.4690778902687,World Bank API,False
+MYS,Malaysia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2016,11.3671005610583,World Bank API,False
+MYS,Malaysia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2017,11.2939340883286,World Bank API,False
+MYS,Malaysia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2018,10.6274389987205,World Bank API,False
+MYS,Malaysia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2019,10.2240384296119,World Bank API,False
+MYS,Malaysia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2020,10.470225235867,World Bank API,False
+MYS,Malaysia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2021,10.2892948363062,World Bank API,False
+MYS,Malaysia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2022,10.0105928565176,World Bank API,False
+MYS,Malaysia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2023,9.74966658350567,World Bank API,False
+MYS,Malaysia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2024,9.43694338106628,World Bank API,False
+MYS,Malaysia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2015,60.0120876639206,World Bank API,False
+MYS,Malaysia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2016,61.1460887965168,World Bank API,False
+MYS,Malaysia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2017,60.9886193008338,World Bank API,False
+MYS,Malaysia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2018,62.2615155183785,World Bank API,False
+MYS,Malaysia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2019,61.8517542998961,World Bank API,False
+MYS,Malaysia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2020,63.3629009801003,World Bank API,False
+MYS,Malaysia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2021,63.7810123268587,World Bank API,False
+MYS,Malaysia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2022,63.9175651142473,World Bank API,False
+MYS,Malaysia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2023,64.2536465368875,World Bank API,False
+MYS,Malaysia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2024,64.5608215166271,World Bank API,False
+MYS,Malaysia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2015,3.1,World Bank API,False
+MYS,Malaysia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2016,3.44,World Bank API,False
+MYS,Malaysia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2017,3.41,World Bank API,False
+MYS,Malaysia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2018,3.3,World Bank API,False
+MYS,Malaysia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2019,3.33,World Bank API,False
+MYS,Malaysia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2020,4.54,World Bank API,False
+MYS,Malaysia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2021,4.64,World Bank API,False
+MYS,Malaysia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2022,3.93,World Bank API,False
+MYS,Malaysia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2023,3.858,World Bank API,False
+MYS,Malaysia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2024,3.846,World Bank API,False
+MYS,Malaysia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2015,10.979,World Bank API,False
+MYS,Malaysia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2016,10.836,World Bank API,False
+MYS,Malaysia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2017,11.277,World Bank API,False
+MYS,Malaysia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2018,11.395,World Bank API,False
+MYS,Malaysia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2019,11.211,World Bank API,False
+MYS,Malaysia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2020,12.365,World Bank API,False
+MYS,Malaysia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2021,11.579,World Bank API,False
+MYS,Malaysia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2022,12.159,World Bank API,False
+MYS,Malaysia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2023,12.146,World Bank API,False
+MYS,Malaysia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2024,12.25,World Bank API,False
+MYS,Malaysia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2015,71.0640678111957,World Bank API,False
+MYS,Malaysia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2016,78.7883099275229,World Bank API,False
+MYS,Malaysia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2017,80.1404790103961,World Bank API,False
+MYS,Malaysia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2018,81.2010486181174,World Bank API,False
+MYS,Malaysia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2019,84.1871450078281,World Bank API,False
+MYS,Malaysia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2020,89.55501192,World Bank API,False
+MYS,Malaysia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2021,96.7514278,World Bank API,False
+MYS,Malaysia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2022,97.3986404,World Bank API,False
+MYS,Malaysia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2023,97.69272633,World Bank API,False
+MYS,Malaysia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2024,98.0206059,World Bank API,False
+MYS,Malaysia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2015,141.210531313909,World Bank API,False
+MYS,Malaysia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2016,136.725167298764,World Bank API,False
+MYS,Malaysia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2017,130.853522804244,World Bank API,False
+MYS,Malaysia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2018,128.873150399987,World Bank API,False
+MYS,Malaysia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2019,133.372921941941,World Bank API,False
+MYS,Malaysia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2020,129.017911652905,World Bank API,False
+MYS,Malaysia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2021,137.684938559871,World Bank API,False
+MYS,Malaysia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2022,138.208441079076,World Bank API,False
+MYS,Malaysia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2023,142.7320920639,World Bank API,False
+MYS,Malaysia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2024,139.664651283564,World Bank API,False
+MYS,Malaysia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2015,9.80955980953099,World Bank API,False
+MYS,Malaysia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2016,8.55245970508987,World Bank API,False
+MYS,Malaysia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2017,8.30705146836206,World Bank API,False
+MYS,Malaysia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2018,8.19179819298533,World Bank API,False
+MYS,Malaysia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2019,8.86497357882019,World Bank API,False
+MYS,Malaysia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2020,9.91101742902637,World Bank API,False
+MYS,Malaysia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2021,10.8921782282506,World Bank API,False
+MYS,Malaysia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2022,12.1753566089982,World Bank API,False
+MYS,Malaysia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2023,13.0287000355119,World Bank API,False
+MYS,Malaysia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2024,13.5464432669708,World Bank API,False
+SGP,Singapore,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2015,17.2904642702552,World Bank API,False
+SGP,Singapore,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2016,16.1568033087095,World Bank API,False
+SGP,Singapore,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2017,15.8830026161212,World Bank API,False
+SGP,Singapore,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2018,16.0388461549063,World Bank API,False
+SGP,Singapore,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2019,14.9655328914049,World Bank API,False
+SGP,Singapore,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2020,14.8295407728436,World Bank API,False
+SGP,Singapore,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2021,14.4449638584304,World Bank API,False
+SGP,Singapore,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2022,14.5645681583865,World Bank API,False
+SGP,Singapore,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2023,13.8432992197459,World Bank API,False
+SGP,Singapore,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2024,14.1625578109794,World Bank API,False
+SGP,Singapore,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2015,0.121459660055481,World Bank API,False
+SGP,Singapore,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2016,0.118979259162807,World Bank API,False
+SGP,Singapore,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2017,0.117077595142899,World Bank API,False
+SGP,Singapore,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2018,0.115089283007242,World Bank API,False
+SGP,Singapore,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2019,0.113041897035994,World Bank API,False
+SGP,Singapore,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2020,0.108162685533748,World Bank API,False
+SGP,Singapore,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2021,0.107777556138585,World Bank API,False
+SGP,Singapore,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2022,0.0909524456334748,World Bank API,False
+SGP,Singapore,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2023,0.0795801860241645,World Bank API,False
+SGP,Singapore,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2024,0.0979837330273541,World Bank API,False
+SGP,Singapore,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2015,82.5880760696893,World Bank API,False
+SGP,Singapore,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2016,83.7242174321277,World Bank API,False
+SGP,Singapore,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2017,83.9999197887359,World Bank API,False
+SGP,Singapore,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2018,83.8460645620865,World Bank API,False
+SGP,Singapore,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2019,84.9214552678997,World Bank API,False
+SGP,Singapore,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2020,85.0622965416227,World Bank API,False
+SGP,Singapore,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2021,85.447258585431,World Bank API,False
+SGP,Singapore,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2022,85.3444494774124,World Bank API,False
+SGP,Singapore,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2023,86.0771205942299,World Bank API,False
+SGP,Singapore,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2024,85.7394584559933,World Bank API,False
+SGP,Singapore,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2015,3.79,World Bank API,False
+SGP,Singapore,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2016,4.08,World Bank API,False
+SGP,Singapore,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2017,4.2,World Bank API,False
+SGP,Singapore,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2018,3.613,World Bank API,False
+SGP,Singapore,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2019,3.1,World Bank API,False
+SGP,Singapore,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2020,4.1,World Bank API,False
+SGP,Singapore,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2021,4.64,World Bank API,False
+SGP,Singapore,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2022,3.591,World Bank API,False
+SGP,Singapore,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2023,3.444,World Bank API,False
+SGP,Singapore,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2024,2.737,World Bank API,False
+SGP,Singapore,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2015,8.894,World Bank API,False
+SGP,Singapore,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2016,8.723,World Bank API,False
+SGP,Singapore,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2017,9.338,World Bank API,False
+SGP,Singapore,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2018,8.437,World Bank API,False
+SGP,Singapore,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2019,7.629,World Bank API,False
+SGP,Singapore,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2020,10.558,World Bank API,False
+SGP,Singapore,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2021,9.499,World Bank API,False
+SGP,Singapore,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2022,7.924,World Bank API,False
+SGP,Singapore,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2023,8.515,World Bank API,False
+SGP,Singapore,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2024,6.329,World Bank API,False
+SGP,Singapore,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2015,79.0129570025584,World Bank API,False
+SGP,Singapore,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2016,84.4522678893074,World Bank API,False
+SGP,Singapore,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2017,84.4522678893074,World Bank API,False
+SGP,Singapore,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2018,88.1656360313447,World Bank API,False
+SGP,Singapore,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2019,88.9492526850762,World Bank API,False
+SGP,Singapore,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2020,92.00434653,World Bank API,False
+SGP,Singapore,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2021,96.92468156,World Bank API,False
+SGP,Singapore,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2022,95.95386476,World Bank API,False
+SGP,Singapore,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2023,94.28518987,World Bank API,False
+SGP,Singapore,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2024,94.37757178,World Bank API,False
+SGP,Singapore,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2015,149.006215002154,World Bank API,False
+SGP,Singapore,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2016,151.681717052742,World Bank API,False
+SGP,Singapore,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2017,149.567868255938,World Bank API,False
+SGP,Singapore,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2018,152.07381696158,World Bank API,False
+SGP,Singapore,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2019,159.347378272364,World Bank API,False
+SGP,Singapore,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2020,150.259334715266,World Bank API,False
+SGP,Singapore,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2021,157.977675166643,World Bank API,False
+SGP,Singapore,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2022,173.005291258141,World Bank API,False
+SGP,Singapore,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2023,173.199932977376,World Bank API,False
+SGP,Singapore,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2024,170.78256295407,World Bank API,False
+SGP,Singapore,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2015,26.8978922564041,World Bank API,False
+SGP,Singapore,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2016,28.5392609803278,World Bank API,False
+SGP,Singapore,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2017,26.3326099315534,World Bank API,False
+SGP,Singapore,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2018,26.50873593831,World Bank API,False
+SGP,Singapore,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2019,26.5276177370284,World Bank API,False
+SGP,Singapore,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2020,26.8622723592787,World Bank API,False
+SGP,Singapore,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2021,27.5210996900631,World Bank API,False
+SGP,Singapore,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2022,27.5510032505086,World Bank API,False
+SGP,Singapore,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2023,27.4343636046425,World Bank API,False
+SGP,Singapore,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2024,27.813655026664,World Bank API,False
+THA,Thailand,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2015,23.7199822557498,World Bank API,False
+THA,Thailand,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2016,23.7258928161447,World Bank API,False
+THA,Thailand,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2017,22.9001965786271,World Bank API,False
+THA,Thailand,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2018,22.8486643164464,World Bank API,False
+THA,Thailand,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2019,22.8893483662012,World Bank API,False
+THA,Thailand,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2020,22.6027550384991,World Bank API,False
+THA,Thailand,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2021,22.2725385292104,World Bank API,False
+THA,Thailand,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2022,22.2352690912822,World Bank API,False
+THA,Thailand,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2023,21.9241712091058,World Bank API,False
+THA,Thailand,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2024,22.2543475044884,World Bank API,False
+THA,Thailand,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2015,32.3345065204086,World Bank API,False
+THA,Thailand,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2016,31.2290600430982,World Bank API,False
+THA,Thailand,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2017,31.5296819916623,World Bank API,False
+THA,Thailand,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2018,32.1983100446982,World Bank API,False
+THA,Thailand,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2019,31.4905856675213,World Bank API,False
+THA,Thailand,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2020,31.3894710294934,World Bank API,False
+THA,Thailand,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2021,31.8973264305607,World Bank API,False
+THA,Thailand,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2022,30.4232397167292,World Bank API,False
+THA,Thailand,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2023,30.2203833465474,World Bank API,False
+THA,Thailand,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2024,28.9863358878798,World Bank API,False
+THA,Thailand,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2015,43.94552128009,World Bank API,False
+THA,Thailand,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2016,45.0450446122349,World Bank API,False
+THA,Thailand,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2017,45.5701188910502,World Bank API,False
+THA,Thailand,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2018,44.9530256388553,World Bank API,False
+THA,Thailand,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2019,45.6200634452476,World Bank API,False
+THA,Thailand,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2020,46.0077764439411,World Bank API,False
+THA,Thailand,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2021,45.8301350402289,World Bank API,False
+THA,Thailand,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2022,47.3414812840193,World Bank API,False
+THA,Thailand,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2023,47.8554430043835,World Bank API,False
+THA,Thailand,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2024,48.7593092354398,World Bank API,False
+THA,Thailand,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2015,0.597,World Bank API,False
+THA,Thailand,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2016,0.688,World Bank API,False
+THA,Thailand,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2017,0.83,World Bank API,False
+THA,Thailand,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2018,0.765,World Bank API,False
+THA,Thailand,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2019,0.716,World Bank API,False
+THA,Thailand,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2020,1.099,World Bank API,False
+THA,Thailand,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2021,1.215,World Bank API,False
+THA,Thailand,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2022,0.94,World Bank API,False
+THA,Thailand,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2023,0.733,World Bank API,False
+THA,Thailand,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2024,0.781,World Bank API,False
+THA,Thailand,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2015,3.094,World Bank API,False
+THA,Thailand,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2016,3.714,World Bank API,False
+THA,Thailand,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2017,4.373,World Bank API,False
+THA,Thailand,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2018,4.011,World Bank API,False
+THA,Thailand,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2019,4.19,World Bank API,False
+THA,Thailand,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2020,5.199,World Bank API,False
+THA,Thailand,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2021,5.858,World Bank API,False
+THA,Thailand,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2022,5.208,World Bank API,False
+THA,Thailand,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2023,4.491,World Bank API,False
+THA,Thailand,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2024,4.66,World Bank API,False
+THA,Thailand,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2015,39.3161267365004,World Bank API,False
+THA,Thailand,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2016,47.5049656215909,World Bank API,False
+THA,Thailand,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2017,52.8919293439676,World Bank API,False
+THA,Thailand,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2018,56.8174809301456,World Bank API,False
+THA,Thailand,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2019,66.6524194587528,World Bank API,False
+THA,Thailand,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2020,77.84374066,World Bank API,False
+THA,Thailand,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2021,85.26956666,World Bank API,False
+THA,Thailand,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2022,87.97724503,World Bank API,False
+THA,Thailand,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2023,89.53525238,World Bank API,False
+THA,Thailand,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2024,90.86718789,World Bank API,False
+THA,Thailand,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2015,145.932577028654,World Bank API,False
+THA,Thailand,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2016,168.88127084564,World Bank API,False
+THA,Thailand,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2017,170.783699598766,World Bank API,False
+THA,Thailand,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2018,175.266001933225,World Bank API,False
+THA,Thailand,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2019,181.221874232713,World Bank API,False
+THA,Thailand,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2020,162.327737376294,World Bank API,False
+THA,Thailand,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2021,168.485285358167,World Bank API,False
+THA,Thailand,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2022,176.22279253783,World Bank API,False
+THA,Thailand,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2023,168.642808295144,World Bank API,False
+THA,Thailand,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2024,160.639312286761,World Bank API,False
+THA,Thailand,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2015,8.83035128821556,World Bank API,False
+THA,Thailand,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2016,10.187716904417,World Bank API,False
+THA,Thailand,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2017,11.5345396717409,World Bank API,False
+THA,Thailand,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2018,12.8740610702362,World Bank API,False
+THA,Thailand,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2019,14.1338059581469,World Bank API,False
+THA,Thailand,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2020,16.021813562656,World Bank API,False
+THA,Thailand,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2021,17.3168855632327,World Bank API,False
+THA,Thailand,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2022,17.5125815621477,World Bank API,False
+THA,Thailand,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2023,14.5089451983046,World Bank API,False
+THA,Thailand,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2024,14.8870491187484,World Bank API,False
+IDN,Indonesia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2015,22.1218830739339,World Bank API,False
+IDN,Indonesia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2016,21.8107246597619,World Bank API,False
+IDN,Indonesia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2017,22.1220312359547,World Bank API,False
+IDN,Indonesia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2018,22.3847562001086,World Bank API,False
+IDN,Indonesia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2019,22.4012342408394,World Bank API,False
+IDN,Indonesia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2020,21.6344047291476,World Bank API,False
+IDN,Indonesia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2021,21.7614308372694,World Bank API,False
+IDN,Indonesia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2022,21.8679677163131,World Bank API,False
+IDN,Indonesia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2023,21.951549784263,World Bank API,False
+IDN,Indonesia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2024,22.2861723546005,World Bank API,False
+IDN,Indonesia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2015,32.7770295687741,World Bank API,False
+IDN,Indonesia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2016,31.5553329221477,World Bank API,False
+IDN,Indonesia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2017,30.5222024429742,World Bank API,False
+IDN,Indonesia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2018,29.4464900769988,World Bank API,False
+IDN,Indonesia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2019,28.4631336137713,World Bank API,False
+IDN,Indonesia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2020,29.3087481652973,World Bank API,False
+IDN,Indonesia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2021,28.9871998196831,World Bank API,False
+IDN,Indonesia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2022,29.2848629874109,World Bank API,False
+IDN,Indonesia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2023,28.7792280576249,World Bank API,False
+IDN,Indonesia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2024,27.9600749776458,World Bank API,False
+IDN,Indonesia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2015,45.1010964067699,World Bank API,False
+IDN,Indonesia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2016,46.6339424180905,World Bank API,False
+IDN,Indonesia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2017,47.3557647336161,World Bank API,False
+IDN,Indonesia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2018,48.1687622744529,World Bank API,False
+IDN,Indonesia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2019,49.1356329001475,World Bank API,False
+IDN,Indonesia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2020,49.0568463452771,World Bank API,False
+IDN,Indonesia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2021,49.2513693430476,World Bank API,False
+IDN,Indonesia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2022,48.8471685544592,World Bank API,False
+IDN,Indonesia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2023,49.2692149419358,World Bank API,False
+IDN,Indonesia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2024,49.7537526677536,World Bank API,False
+IDN,Indonesia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2015,4.514,World Bank API,False
+IDN,Indonesia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2016,4.301,World Bank API,False
+IDN,Indonesia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2017,3.783,World Bank API,False
+IDN,Indonesia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2018,4.387,World Bank API,False
+IDN,Indonesia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2019,3.59,World Bank API,False
+IDN,Indonesia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2020,4.255,World Bank API,False
+IDN,Indonesia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2021,3.827,World Bank API,False
+IDN,Indonesia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2022,3.462,World Bank API,False
+IDN,Indonesia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2023,3.308,World Bank API,False
+IDN,Indonesia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2024,3.301,World Bank API,False
+IDN,Indonesia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2015,17.224,World Bank API,False
+IDN,Indonesia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2016,15.997,World Bank API,False
+IDN,Indonesia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2017,14.553,World Bank API,False
+IDN,Indonesia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2018,16.369,World Bank API,False
+IDN,Indonesia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2019,13.577,World Bank API,False
+IDN,Indonesia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2020,14.773,World Bank API,False
+IDN,Indonesia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2021,13.8,World Bank API,False
+IDN,Indonesia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2022,14.054,World Bank API,False
+IDN,Indonesia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2023,13.015,World Bank API,False
+IDN,Indonesia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2024,13.075,World Bank API,False
+IDN,Indonesia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2015,22.062742603379,World Bank API,False
+IDN,Indonesia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2016,25.447353701827,World Bank API,False
+IDN,Indonesia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2017,32.335806250688,World Bank API,False
+IDN,Indonesia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2018,39.9046386385762,World Bank API,False
+IDN,Indonesia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2019,47.6906489788375,World Bank API,False
+IDN,Indonesia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2020,53.72649449,World Bank API,False
+IDN,Indonesia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2021,62.10447842,World Bank API,False
+IDN,Indonesia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2022,66.48461277,World Bank API,False
+IDN,Indonesia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2023,69.20836554,World Bank API,False
+IDN,Indonesia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2024,72.78075544,World Bank API,False
+IDN,Indonesia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2015,129.468797674053,World Bank API,False
+IDN,Indonesia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2016,145.704251250337,World Bank API,False
+IDN,Indonesia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2017,162.782511760443,World Bank API,False
+IDN,Indonesia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2018,118.330216938024,World Bank API,False
+IDN,Indonesia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2019,125.244348145809,World Bank API,False
+IDN,Indonesia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2020,129.40362112725,World Bank API,False
+IDN,Indonesia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2021,132.199444256099,World Bank API,False
+IDN,Indonesia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2022,122.873012230307,World Bank API,False
+IDN,Indonesia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2023,125.238194847046,World Bank API,False
+IDN,Indonesia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2024,122.514946500491,World Bank API,False
+IDN,Indonesia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2015,1.52139473860752,World Bank API,False
+IDN,Indonesia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2016,1.9753784545485,World Bank API,False
+IDN,Indonesia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2017,2.32504234259027,World Bank API,False
+IDN,Indonesia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2018,3.28729591276809,World Bank API,False
+IDN,Indonesia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2019,3.77422560918071,World Bank API,False
+IDN,Indonesia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2020,3.92993769121646,World Bank API,False
+IDN,Indonesia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2021,4.4874632789818,World Bank API,False
+IDN,Indonesia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2022,4.82151507878823,World Bank API,False
+IDN,Indonesia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2023,4.81663955789733,World Bank API,False
+IDN,Indonesia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2024,4.92196685438436,World Bank API,False
+VNM,Vietnam,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2015,22.7436707500954,World Bank API,False
+VNM,Vietnam,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2016,24.7622070388361,World Bank API,False
+VNM,Vietnam,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2017,25.7768318231697,World Bank API,False
+VNM,Vietnam,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2018,26.7047230561435,World Bank API,False
+VNM,Vietnam,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2019,29.5891842687317,World Bank API,False
+VNM,Vietnam,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2020,31.0698896075906,World Bank API,False
+VNM,Vietnam,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2021,33.1255735800284,World Bank API,False
+VNM,Vietnam,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2022,30.6825928896503,World Bank API,False
+VNM,Vietnam,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2023,33.467876483268,World Bank API,False
+VNM,Vietnam,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2024,34.3195198506067,World Bank API,False
+VNM,Vietnam,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2015,44.0184515218041,World Bank API,False
+VNM,Vietnam,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2016,41.8649072066788,World Bank API,False
+VNM,Vietnam,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2017,40.1554391261382,World Bank API,False
+VNM,Vietnam,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2018,37.7241139171479,World Bank API,False
+VNM,Vietnam,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2019,34.5351601063592,World Bank API,False
+VNM,Vietnam,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2020,32.6123879661738,World Bank API,False
+VNM,Vietnam,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2021,29.0283266030004,World Bank API,False
+VNM,Vietnam,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2022,33.4623722339218,World Bank API,False
+VNM,Vietnam,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2023,26.9827056291982,World Bank API,False
+VNM,Vietnam,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2024,25.8741334316538,World Bank API,False
+VNM,Vietnam,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2015,33.2378777281005,World Bank API,False
+VNM,Vietnam,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2016,33.37288761068,World Bank API,False
+VNM,Vietnam,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2017,34.0677198752187,World Bank API,False
+VNM,Vietnam,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2018,35.5711648258268,World Bank API,False
+VNM,Vietnam,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2019,35.8756556249091,World Bank API,False
+VNM,Vietnam,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2020,36.3177224262355,World Bank API,False
+VNM,Vietnam,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2021,37.8460942595862,World Bank API,False
+VNM,Vietnam,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2022,35.8550348764279,World Bank API,False
+VNM,Vietnam,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2023,39.5494160842561,World Bank API,False
+VNM,Vietnam,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2024,39.8063485099891,World Bank API,False
+VNM,Vietnam,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2015,1.848,World Bank API,False
+VNM,Vietnam,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2016,1.848,World Bank API,False
+VNM,Vietnam,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2017,1.874,World Bank API,False
+VNM,Vietnam,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2018,1.161,World Bank API,False
+VNM,Vietnam,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2019,1.681,World Bank API,False
+VNM,Vietnam,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2020,2.103,World Bank API,False
+VNM,Vietnam,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2021,2.383,World Bank API,False
+VNM,Vietnam,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2022,1.57,World Bank API,False
+VNM,Vietnam,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2023,1.645,World Bank API,False
+VNM,Vietnam,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2024,1.602,World Bank API,False
+VNM,Vietnam,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2015,6.267,World Bank API,False
+VNM,Vietnam,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2016,6.763,World Bank API,False
+VNM,Vietnam,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2017,7.124,World Bank API,False
+VNM,Vietnam,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2018,4.648,World Bank API,False
+VNM,Vietnam,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2019,5.624,World Bank API,False
+VNM,Vietnam,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2020,6.546,World Bank API,False
+VNM,Vietnam,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2021,6.903,World Bank API,False
+VNM,Vietnam,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2022,6.097,World Bank API,False
+VNM,Vietnam,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2023,6.441,World Bank API,False
+VNM,Vietnam,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2024,6.338,World Bank API,False
+VNM,Vietnam,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2015,45.0,World Bank API,False
+VNM,Vietnam,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2016,53.0,World Bank API,False
+VNM,Vietnam,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2017,58.1400000036297,World Bank API,False
+VNM,Vietnam,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2018,69.8479286837965,World Bank API,False
+VNM,Vietnam,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2019,68.6615802057338,World Bank API,False
+VNM,Vietnam,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2020,70.30000012,World Bank API,False
+VNM,Vietnam,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2021,74.20999985,World Bank API,False
+VNM,Vietnam,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2022,78.58999918,World Bank API,False
+VNM,Vietnam,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2023,78.08,World Bank API,False
+VNM,Vietnam,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2024,84.15,World Bank API,False
+VNM,Vietnam,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2015,129.627056599416,World Bank API,False
+VNM,Vietnam,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2016,128.297962650408,World Bank API,False
+VNM,Vietnam,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2017,126.097912313395,World Bank API,False
+VNM,Vietnam,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2018,146.137840768403,World Bank API,False
+VNM,Vietnam,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2019,140.192561828615,World Bank API,False
+VNM,Vietnam,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2020,141.655558720912,World Bank API,False
+VNM,Vietnam,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2021,136.806313165021,World Bank API,False
+VNM,Vietnam,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2022,137.852422819653,World Bank API,False
+VNM,Vietnam,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2023,130.991428667547,World Bank API,False
+VNM,Vietnam,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2024,127.606471743496,World Bank API,False
+VNM,Vietnam,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2015,8.24967739226207,World Bank API,False
+VNM,Vietnam,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2016,9.679017739946,World Bank API,False
+VNM,Vietnam,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2017,11.8410316814328,World Bank API,False
+VNM,Vietnam,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2018,13.5025072757898,World Bank API,False
+VNM,Vietnam,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2019,15.2328957557438,World Bank API,False
+VNM,Vietnam,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2020,17.0262915402718,World Bank API,False
+VNM,Vietnam,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2021,19.5362327330994,World Bank API,False
+VNM,Vietnam,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2022,21.3681380805533,World Bank API,False
+VNM,Vietnam,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2023,22.6806675035061,World Bank API,False
+VNM,Vietnam,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2024,23.711259212336,World Bank API,False
+PHL,Philippines,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2015,17.0786139842483,World Bank API,False
+PHL,Philippines,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2016,17.8383742084965,World Bank API,False
+PHL,Philippines,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2017,18.6636563552646,World Bank API,False
+PHL,Philippines,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2018,19.4736780800466,World Bank API,False
+PHL,Philippines,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2019,19.5373267098625,World Bank API,False
+PHL,Philippines,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2020,18.7126188899983,World Bank API,False
+PHL,Philippines,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2021,18.8641776384679,World Bank API,False
+PHL,Philippines,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2022,18.4442054471222,World Bank API,False
+PHL,Philippines,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2023,18.9439273601805,World Bank API,False
+PHL,Philippines,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2024,19.4979246002047,World Bank API,False
+PHL,Philippines,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2015,27.851386470164,World Bank API,False
+PHL,Philippines,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2016,26.7234128847963,World Bank API,False
+PHL,Philippines,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2017,25.1806891263771,World Bank API,False
+PHL,Philippines,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2018,24.0341655328165,World Bank API,False
+PHL,Philippines,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2019,22.6054798824319,World Bank API,False
+PHL,Philippines,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2020,24.5081370532987,World Bank API,False
+PHL,Philippines,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2021,24.325505789458,World Bank API,False
+PHL,Philippines,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2022,22.8363518329959,World Bank API,False
+PHL,Philippines,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2023,22.0370920130941,World Bank API,False
+PHL,Philippines,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2024,21.1858721910537,World Bank API,False
+PHL,Philippines,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2015,55.0699923441241,World Bank API,False
+PHL,Philippines,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2016,55.4382082448058,World Bank API,False
+PHL,Philippines,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2017,56.1556474029791,World Bank API,False
+PHL,Philippines,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2018,56.4921563871369,World Bank API,False
+PHL,Philippines,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2019,57.8572001865167,World Bank API,False
+PHL,Philippines,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2020,56.779244056703,World Bank API,False
+PHL,Philippines,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2021,56.8103235196599,World Bank API,False
+PHL,Philippines,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2022,58.7194427198819,World Bank API,False
+PHL,Philippines,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2023,59.0189887451559,World Bank API,False
+PHL,Philippines,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2024,59.3162032087416,World Bank API,False
+PHL,Philippines,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2015,3.068,World Bank API,False
+PHL,Philippines,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2016,2.695,World Bank API,False
+PHL,Philippines,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2017,2.552,World Bank API,False
+PHL,Philippines,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2018,2.338,World Bank API,False
+PHL,Philippines,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2019,2.237,World Bank API,False
+PHL,Philippines,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2020,2.522,World Bank API,False
+PHL,Philippines,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2021,3.398,World Bank API,False
+PHL,Philippines,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2022,2.598,World Bank API,False
+PHL,Philippines,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2023,2.2,World Bank API,False
+PHL,Philippines,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2024,2.202,World Bank API,False
+PHL,Philippines,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2015,8.509,World Bank API,False
+PHL,Philippines,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2016,7.634,World Bank API,False
+PHL,Philippines,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2017,7.379,World Bank API,False
+PHL,Philippines,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2018,6.605,World Bank API,False
+PHL,Philippines,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2019,6.696,World Bank API,False
+PHL,Philippines,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2020,6.987,World Bank API,False
+PHL,Philippines,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2021,8.434,World Bank API,False
+PHL,Philippines,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2022,6.813,World Bank API,False
+PHL,Philippines,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2023,6.912,World Bank API,False
+PHL,Philippines,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2024,6.964,World Bank API,False
+PHL,Philippines,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2015,36.90000153,World Bank API,False
+PHL,Philippines,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2016,39.20000076,World Bank API,False
+PHL,Philippines,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2017,41.59999847,World Bank API,False
+PHL,Philippines,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2018,44.09999847,World Bank API,False
+PHL,Philippines,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2019,43.0266118680279,World Bank API,False
+PHL,Philippines,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2020,53.76490021,World Bank API,False
+PHL,Philippines,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2021,66.90779877,World Bank API,False
+PHL,Philippines,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2022,75.21114422,World Bank API,False
+PHL,Philippines,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2023,77.86699677,World Bank API,False
+PHL,Philippines,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2024,67.26300914,World Bank API,False
+PHL,Philippines,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2015,111.893197374926,World Bank API,False
+PHL,Philippines,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2016,112.517998777897,World Bank API,False
+PHL,Philippines,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2017,110.962137119646,World Bank API,False
+PHL,Philippines,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2018,122.960456861544,World Bank API,False
+PHL,Philippines,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2019,151.006642923206,World Bank API,False
+PHL,Philippines,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2020,133.45620905917,World Bank API,False
+PHL,Philippines,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2021,144.424289981649,World Bank API,False
+PHL,Philippines,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2022,147.428926406785,World Bank API,False
+PHL,Philippines,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2023,117.275521687262,World Bank API,False
+PHL,Philippines,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2024,115.298749599352,World Bank API,False
+PHL,Philippines,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2015,2.75369633406674,World Bank API,False
+PHL,Philippines,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2016,2.79705053563184,World Bank API,False
+PHL,Philippines,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2017,3.14400726239576,World Bank API,False
+PHL,Philippines,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2018,3.46090446005956,World Bank API,False
+PHL,Philippines,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2019,5.69730703529922,World Bank API,False
+PHL,Philippines,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2020,7.08108894988907,World Bank API,False
+PHL,Philippines,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2021,8.50897715713263,World Bank API,False
+PHL,Philippines,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2022,7.63946525096298,World Bank API,False
+PHL,Philippines,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2023,6.5393085505183,World Bank API,False
+PHL,Philippines,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2024,7.13893301204977,World Bank API,False
+KHM,Cambodia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2015,24.9213861091188,World Bank API,False
+KHM,Cambodia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2016,25.7634256473618,World Bank API,False
+KHM,Cambodia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2017,25.4909057699602,World Bank API,False
+KHM,Cambodia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2018,25.0168550948899,World Bank API,False
+KHM,Cambodia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2019,24.4731410912226,World Bank API,False
+KHM,Cambodia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2020,25.1450484861575,World Bank API,False
+KHM,Cambodia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2021,26.4143976143543,World Bank API,False
+KHM,Cambodia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2022,27.0439382363786,World Bank API,False
+KHM,Cambodia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2023,27.5630254285235,World Bank API,False
+KHM,Cambodia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2024,28.4335285509441,World Bank API,False
+KHM,Cambodia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2015,42.4684239936853,World Bank API,False
+KHM,Cambodia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2016,37.5402628887708,World Bank API,False
+KHM,Cambodia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2017,38.206389128721,World Bank API,False
+KHM,Cambodia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2018,38.999256028288,World Bank API,False
+KHM,Cambodia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2019,39.8680962570644,World Bank API,False
+KHM,Cambodia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2020,36.8999777254893,World Bank API,False
+KHM,Cambodia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2021,37.1315873016896,World Bank API,False
+KHM,Cambodia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2022,36.1906415430912,World Bank API,False
+KHM,Cambodia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2023,35.304617697339,World Bank API,False
+KHM,Cambodia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2024,34.1649557689114,World Bank API,False
+KHM,Cambodia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2015,32.6102017562834,World Bank API,False
+KHM,Cambodia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2016,36.696322866151,World Bank API,False
+KHM,Cambodia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2017,36.3027275126302,World Bank API,False
+KHM,Cambodia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2018,35.9839108164185,World Bank API,False
+KHM,Cambodia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2019,35.658762651713,World Bank API,False
+KHM,Cambodia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2020,37.9549737883533,World Bank API,False
+KHM,Cambodia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2021,36.4540258308825,World Bank API,False
+KHM,Cambodia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2022,36.765430397567,World Bank API,False
+KHM,Cambodia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2023,37.1323568741375,World Bank API,False
+KHM,Cambodia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2024,37.4015058521057,World Bank API,False
+KHM,Cambodia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2015,0.393,World Bank API,False
+KHM,Cambodia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2016,0.716,World Bank API,False
+KHM,Cambodia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2017,0.141,World Bank API,False
+KHM,Cambodia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2018,0.129,World Bank API,False
+KHM,Cambodia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2019,0.119,World Bank API,False
+KHM,Cambodia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2020,0.172,World Bank API,False
+KHM,Cambodia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2021,0.396,World Bank API,False
+KHM,Cambodia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2022,0.245,World Bank API,False
+KHM,Cambodia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2023,0.256,World Bank API,False
+KHM,Cambodia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2024,0.254,World Bank API,False
+KHM,Cambodia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2015,0.744,World Bank API,False
+KHM,Cambodia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2016,1.137,World Bank API,False
+KHM,Cambodia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2017,0.382,World Bank API,False
+KHM,Cambodia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2018,0.38,World Bank API,False
+KHM,Cambodia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2019,0.378,World Bank API,False
+KHM,Cambodia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2020,0.474,World Bank API,False
+KHM,Cambodia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2021,0.83,World Bank API,False
+KHM,Cambodia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2022,0.687,World Bank API,False
+KHM,Cambodia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2023,0.703,World Bank API,False
+KHM,Cambodia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2024,0.704,World Bank API,False
+KHM,Cambodia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2015,6.43319107021405,World Bank API,False
+KHM,Cambodia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2016,32.3984517141849,World Bank API,False
+KHM,Cambodia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2017,32.9002785437986,World Bank API,False
+KHM,Cambodia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2018,65.0,World Bank API,False
+KHM,Cambodia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2019,52.305878224498,World Bank API,False
+KHM,Cambodia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2020,56.37590027,World Bank API,False
+KHM,Cambodia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2021,60.76269913,World Bank API,False
+KHM,Cambodia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2022,65.49079895,World Bank API,False
+KHM,Cambodia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2023,68.92549896,World Bank API,False
+KHM,Cambodia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2024,68.47530365,World Bank API,False
+KHM,Cambodia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2015,133.45841400103,World Bank API,False
+KHM,Cambodia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2016,125.627644524442,World Bank API,False
+KHM,Cambodia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2017,115.551192369591,World Bank API,False
+KHM,Cambodia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2018,119.309943480982,World Bank API,False
+KHM,Cambodia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2019,129.957441474291,World Bank API,False
+KHM,Cambodia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2020,126.075894769858,World Bank API,False
+KHM,Cambodia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2021,117.234785164989,World Bank API,False
+KHM,Cambodia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2022,113.391506572248,World Bank API,False
+KHM,Cambodia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2023,120.80911943838,World Bank API,False
+KHM,Cambodia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2024,116.091961125929,World Bank API,False
+KHM,Cambodia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2015,0.534485428160887,World Bank API,False
+KHM,Cambodia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2016,0.615922622642822,World Bank API,False
+KHM,Cambodia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2017,0.831393686402579,World Bank API,False
+KHM,Cambodia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2018,1.02122815035674,World Bank API,False
+KHM,Cambodia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2019,1.11871609188205,World Bank API,False
+KHM,Cambodia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2020,1.39770029835926,World Bank API,False
+KHM,Cambodia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2021,1.98089406311481,World Bank API,False
+KHM,Cambodia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2022,2.9638308346303,World Bank API,False
+KHM,Cambodia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2023,3.64181801068419,World Bank API,False
+KHM,Cambodia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2024,4.14566160137529,World Bank API,False
+LAO,Laos,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2015,6.27582116644838,World Bank API,False
+LAO,Laos,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2016,6.37590963228787,World Bank API,False
+LAO,Laos,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2017,6.51502934586047,World Bank API,False
+LAO,Laos,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2018,6.79373611797991,World Bank API,False
+LAO,Laos,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2019,7.00855639208981,World Bank API,False
+LAO,Laos,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2020,6.9752200520285,World Bank API,False
+LAO,Laos,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2021,7.09983537042888,World Bank API,False
+LAO,Laos,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2022,7.17840668729181,World Bank API,False
+LAO,Laos,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2023,7.24890970605785,World Bank API,False
+LAO,Laos,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2024,7.39985422237704,World Bank API,False
+LAO,Laos,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2015,72.9649532307863,World Bank API,False
+LAO,Laos,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2016,71.8509145672025,World Bank API,False
+LAO,Laos,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2017,70.5291019202622,World Bank API,False
+LAO,Laos,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2018,69.8638841171341,World Bank API,False
+LAO,Laos,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2019,69.3587576077181,World Bank API,False
+LAO,Laos,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2020,69.9552282806947,World Bank API,False
+LAO,Laos,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2021,69.8577324066029,World Bank API,False
+LAO,Laos,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2022,69.5659733337719,World Bank API,False
+LAO,Laos,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2023,69.3876980673051,World Bank API,False
+LAO,Laos,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2024,68.9120737008234,World Bank API,False
+LAO,Laos,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2015,20.7592256027653,World Bank API,False
+LAO,Laos,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2016,21.7731758005097,World Bank API,False
+LAO,Laos,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2017,22.9559052518719,World Bank API,False
+LAO,Laos,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2018,23.342344814088,World Bank API,False
+LAO,Laos,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2019,23.6326860001921,World Bank API,False
+LAO,Laos,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2020,23.0695516672768,World Bank API,False
+LAO,Laos,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2021,23.0424322229682,World Bank API,False
+LAO,Laos,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2022,23.2556199789363,World Bank API,False
+LAO,Laos,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2023,23.3633634152757,World Bank API,False
+LAO,Laos,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2024,23.6880438034049,World Bank API,False
+LAO,Laos,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2015,2.006,World Bank API,False
+LAO,Laos,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2016,2.634,World Bank API,False
+LAO,Laos,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2017,3.268,World Bank API,False
+LAO,Laos,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2018,2.897,World Bank API,False
+LAO,Laos,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2019,2.531,World Bank API,False
+LAO,Laos,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2020,2.349,World Bank API,False
+LAO,Laos,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2021,2.08,World Bank API,False
+LAO,Laos,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2022,1.209,World Bank API,False
+LAO,Laos,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2023,1.186,World Bank API,False
+LAO,Laos,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2024,1.174,World Bank API,False
+LAO,Laos,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2015,3.899,World Bank API,False
+LAO,Laos,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2016,4.836,World Bank API,False
+LAO,Laos,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2017,5.779,World Bank API,False
+LAO,Laos,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2018,5.128,World Bank API,False
+LAO,Laos,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2019,4.472,World Bank API,False
+LAO,Laos,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2020,4.237,World Bank API,False
+LAO,Laos,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2021,3.326,World Bank API,False
+LAO,Laos,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2022,2.184,World Bank API,False
+LAO,Laos,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2023,2.176,World Bank API,False
+LAO,Laos,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2024,2.178,World Bank API,False
+LAO,Laos,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2015,18.20000076,World Bank API,False
+LAO,Laos,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2016,21.87000084,World Bank API,False
+LAO,Laos,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2017,25.51040077,World Bank API,False
+LAO,Laos,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2018,36.27130127,World Bank API,False
+LAO,Laos,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2019,47.03229904,World Bank API,False
+LAO,Laos,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2020,54.0,World Bank API,False
+LAO,Laos,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2021,62.0,World Bank API,False
+LAO,Laos,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2022,64.54000092,World Bank API,False
+LAO,Laos,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2023,64.39800262,World Bank API,False
+LAO,Laos,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2024,65.59269714,World Bank API,False
+LAO,Laos,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2015,54.7979496136596,World Bank API,False
+LAO,Laos,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2016,57.2966195875928,World Bank API,False
+LAO,Laos,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2017,52.8887895907566,World Bank API,False
+LAO,Laos,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2018,51.3792491489602,World Bank API,False
+LAO,Laos,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2019,64.0668582946144,World Bank API,False
+LAO,Laos,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2020,63.1139885984314,World Bank API,False
+LAO,Laos,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2021,64.7101497693472,World Bank API,False
+LAO,Laos,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2022,63.3546046458219,World Bank API,False
+LAO,Laos,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2023,64.7588066942788,World Bank API,False
+LAO,Laos,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2024,,World Bank API,True
+LAO,Laos,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2015,0.213918838751508,World Bank API,False
+LAO,Laos,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2016,0.353548994456637,World Bank API,False
+LAO,Laos,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2017,0.387808918792952,World Bank API,False
+LAO,Laos,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2018,0.636626171692238,World Bank API,False
+LAO,Laos,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2019,1.0539352904733,World Bank API,False
+LAO,Laos,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2020,1.67210846259045,World Bank API,False
+LAO,Laos,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2021,2.0226898696049,World Bank API,False
+LAO,Laos,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2022,2.38186047453058,World Bank API,False
+LAO,Laos,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2023,2.72021122524182,World Bank API,False
+LAO,Laos,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2024,,World Bank API,True
+CHN,China,True,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2015,29.2998175326072,World Bank API,False
+CHN,China,True,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2016,29.6444492814543,World Bank API,False
+CHN,China,True,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2017,29.9706060456204,World Bank API,False
+CHN,China,True,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2018,30.3637847933889,World Bank API,False
+CHN,China,True,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2019,30.7587386897164,World Bank API,False
+CHN,China,True,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2020,31.1322866175828,World Bank API,False
+CHN,China,True,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2021,31.5342449659426,World Bank API,False
+CHN,China,True,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2022,30.9312938882327,World Bank API,False
+CHN,China,True,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2023,31.4267217641686,World Bank API,False
+CHN,China,True,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,2024,31.6324437528704,World Bank API,False
+CHN,China,True,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2015,28.3004717268993,World Bank API,False
+CHN,China,True,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2016,27.4221249065299,World Bank API,False
+CHN,China,True,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2017,26.6835826166189,World Bank API,False
+CHN,China,True,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2018,25.7514953274594,World Bank API,False
+CHN,China,True,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2019,24.7219896643701,World Bank API,False
+CHN,China,True,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2020,23.5998596785258,World Bank API,False
+CHN,China,True,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2021,22.8687780404897,World Bank API,False
+CHN,China,True,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2022,24.0801085619325,World Bank API,False
+CHN,China,True,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2023,22.8008772042629,World Bank API,False
+CHN,China,True,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,2024,22.216498294765,World Bank API,False
+CHN,China,True,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2015,42.3997107404935,World Bank API,False
+CHN,China,True,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2016,42.9334259446319,World Bank API,False
+CHN,China,True,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2017,43.3458036346466,World Bank API,False
+CHN,China,True,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2018,43.8847198791517,World Bank API,False
+CHN,China,True,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2019,44.5192735154599,World Bank API,False
+CHN,China,True,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2020,45.2678537038915,World Bank API,False
+CHN,China,True,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2021,45.5969845625275,World Bank API,False
+CHN,China,True,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2022,44.9886051327682,World Bank API,False
+CHN,China,True,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2023,45.7723935112505,World Bank API,False
+CHN,China,True,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,2024,46.1510599840955,World Bank API,False
+CHN,China,True,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2015,4.65,World Bank API,False
+CHN,China,True,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2016,4.56,World Bank API,False
+CHN,China,True,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2017,4.47,World Bank API,False
+CHN,China,True,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2018,4.31,World Bank API,False
+CHN,China,True,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2019,4.56,World Bank API,False
+CHN,China,True,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2020,5.0,World Bank API,False
+CHN,China,True,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2021,4.55,World Bank API,False
+CHN,China,True,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2022,4.98,World Bank API,False
+CHN,China,True,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2023,4.67,World Bank API,False
+CHN,China,True,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,2024,4.59,World Bank API,False
+CHN,China,True,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2015,10.68,World Bank API,False
+CHN,China,True,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2016,10.574,World Bank API,False
+CHN,China,True,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2017,10.431,World Bank API,False
+CHN,China,True,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2018,9.674,World Bank API,False
+CHN,China,True,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2019,10.681,World Bank API,False
+CHN,China,True,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2020,12.65,World Bank API,False
+CHN,China,True,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2021,12.404,World Bank API,False
+CHN,China,True,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2022,14.673,World Bank API,False
+CHN,China,True,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2023,15.562,World Bank API,False
+CHN,China,True,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,2024,15.044,World Bank API,False
+CHN,China,True,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2015,50.29999924,World Bank API,False
+CHN,China,True,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2016,53.2,World Bank API,False
+CHN,China,True,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2017,54.3,World Bank API,False
+CHN,China,True,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2018,65.35839844,World Bank API,False
+CHN,China,True,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2019,64.080881297515,World Bank API,False
+CHN,China,True,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2020,70.05275998,World Bank API,False
+CHN,China,True,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2021,73.05323517,World Bank API,False
+CHN,China,True,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2022,75.61131603,World Bank API,False
+CHN,China,True,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2023,90.6,World Bank API,False
+CHN,China,True,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,2024,92.0,World Bank API,False
+CHN,China,True,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2015,92.5401171363348,World Bank API,False
+CHN,China,True,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2016,97.2138770934621,World Bank API,False
+CHN,China,True,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2017,104.073181609424,World Bank API,False
+CHN,China,True,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2018,116.229125477063,World Bank API,False
+CHN,China,True,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2019,122.670391850252,World Bank API,False
+CHN,China,True,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2020,120.496715387079,World Bank API,False
+CHN,China,True,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2021,121.491918368395,World Bank API,False
+CHN,China,True,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2022,124.195248970763,World Bank API,False
+CHN,China,True,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2023,128.247014127486,World Bank API,False
+CHN,China,True,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,2024,131.753932036803,World Bank API,False
+CHN,China,True,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2015,19.8437947555032,World Bank API,False
+CHN,China,True,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2016,22.9761329915729,World Bank API,False
+CHN,China,True,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2017,27.9101271418763,World Bank API,False
+CHN,China,True,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2018,28.7089097131815,World Bank API,False
+CHN,China,True,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2019,31.5611222411202,World Bank API,False
+CHN,China,True,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2020,33.9069794578039,World Bank API,False
+CHN,China,True,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2021,37.5611751315805,World Bank API,False
+CHN,China,True,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2022,41.3736197056022,World Bank API,False
+CHN,China,True,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2023,44.728886496649,World Bank API,False
+CHN,China,True,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,2024,47.1933952081567,World Bank API,False

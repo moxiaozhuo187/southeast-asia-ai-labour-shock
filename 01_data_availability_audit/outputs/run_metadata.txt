@@ -1,0 +1,47 @@
+
+Run metadata
+
+Run ID:
+20260617_133021
+
+Generated time:
+2026-06-17 13:30:21
+
+Raw data period:
+2015-2025
+
+Formal analysis period:
+2015-2024
+
+Country number:
+9
+
+Indicator number:
+8
+
+Raw data rows:
+792
+
+Core data rows:
+720
+
+Failed API requests:
+0
+
+Duplicate raw rows:
+0
+
+Formal missing values before cleaning:
+2
+
+Imputed values:
+2
+
+Remaining missing values:
+0
+
+Core data file:
+outputs/worldbank_core_analysis_cleaned_2015_2024.csv
+
+Decision summary file:
+outputs/data_decision_summary.txt

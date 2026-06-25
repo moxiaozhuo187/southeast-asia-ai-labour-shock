@@ -1,0 +1,9 @@
+country_code,country_name,evi_main_avg,dri_avg,risk_gap_avg,cluster,cluster_label
+IDN,Indonesia,0.6242889399019711,0.4245482586842282,0.1997406812177428,2,High vulnerability - High readiness
+LAO,Laos,0.3239943451999581,0.2395534105966727,0.0844409346032853,1,Low vulnerability - Low readiness
+MYS,Malaysia,0.613802009149706,0.6170937805815537,-0.0032917714318477,2,High vulnerability - High readiness
+PHL,Philippines,0.4223422565493199,0.4726016007478064,-0.0502593441984863,1,Low vulnerability - Low readiness
+KHM,Cambodia,0.3266196684836643,0.3966416790339462,-0.0700220105502818,1,Low vulnerability - Low readiness
+VNM,Vietnam,0.5348072755152894,0.6086895169335723,-0.0738822414182829,2,High vulnerability - High readiness
+THA,Thailand,0.3645496895088358,0.6923181541666491,-0.3277684646578132,0,Low vulnerability - High readiness
+SGP,Singapore,0.3852742684102668,0.7992306774382394,-0.4139564090279726,0,Low vulnerability - High readiness

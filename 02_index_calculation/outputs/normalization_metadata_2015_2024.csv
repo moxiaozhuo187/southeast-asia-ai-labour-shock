@@ -1,0 +1,9 @@
+﻿variable,min_value,max_value,normalization,direction,index_use,assumption_note
+ind_emp,6.27582116644838,34.3195198506067,min-max,positive_exposure,EVI-main and EVI-robustness,Higher industrial employment may indicate higher automation exposure.
+agr_emp,0.0795801860241645,72.9649532307863,min-max,positive_structural_pressure,EVI-main and EVI-robustness,Higher agricultural employment may indicate structural transformation pressure.
+srv_emp,20.7592256027653,86.0771205942299,min-max,robustness_positive_assumption,EVI-robustness only,"Service employment share cannot distinguish high-skill vs low-skill service jobs in World Bank data; positive direction is an assumption used only in EVI-robustness, not EVI-main."
+unemp,0.119,5.0,min-max,positive_labour_market_pressure,EVI-main and EVI-robustness,Higher unemployment indicates weaker labour market absorption.
+youth_unemp,0.378,17.224,min-max,positive_youth_labour_pressure,EVI-main and EVI-robustness,Higher youth unemployment indicates stronger youth labour market pressure.
+net_user,6.43319107021405,98.0206059,min-max,positive_readiness,DRI,Higher internet use indicates stronger digital readiness.
+mobile_sub,51.3792491489602,181.221874232713,min-max,positive_readiness,DRI,Higher mobile subscriptions indicate stronger digital connectivity.
+broadband,0.213918838751508,47.1933952081567,min-max,positive_readiness,DRI,Higher fixed broadband subscriptions indicate stronger digital infrastructure.

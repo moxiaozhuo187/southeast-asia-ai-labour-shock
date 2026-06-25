@@ -1,0 +1,3 @@
+﻿threshold_name,value,based_on,note
+evi_cut,0.37574734269923216,2024 SEA sample median,China is excluded from the threshold calculation and used only as a benchmark.
+dri_cut,0.5513804907606726,2024 SEA sample median,This quadrant placement is descriptive and not a statistical significance test.

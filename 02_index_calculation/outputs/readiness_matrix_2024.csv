@@ -1,0 +1,10 @@
+﻿country_code,country_name,is_benchmark,sample_role,year,evi_main,dri,risk_gap,evi_level,dri_level,readiness_quadrant
+MYS,Malaysia,False,SEA sample,2024,0.6037794212419352,0.6545787523689744,-0.05079933112703927,High EVI,High DRI,High vulnerability + High readiness
+VNM,Vietnam,False,SEA sample,2024,0.5351872436054239,0.6452630438739675,-0.11007580026854358,High EVI,High DRI,High vulnerability + High readiness
+IDN,Indonesia,False,SEA sample,2024,0.59918364371437,0.45749793764737773,0.14168570606699232,High EVI,Low DRI,High vulnerability + Low readiness
+PHL,Philippines,False,SEA sample,2024,0.40378858419028313,0.43462058115137897,-0.030831996961095842,High EVI,Low DRI,High vulnerability + Low readiness
+THA,Thailand,False,SEA sample,2024,0.34770610120818113,0.6919021780793595,-0.34419607687117837,Low EVI,High DRI,Low vulnerability + High readiness
+SGP,Singapore,False,SEA sample,2024,0.3068256858624482,0.8224362213466144,-0.5156105354841662,Low EVI,High DRI,Low vulnerability + High readiness
+LAO,Laos,False,SEA sample,2024,0.2816518335897494,0.26744265508717135,0.014209178502578024,Low EVI,Low DRI,Low vulnerability + Low readiness
+KHM,Cambodia,False,SEA sample,2024,0.34231804352286654,0.41983093089977475,-0.0775128873769082,Low EVI,Low DRI,Low vulnerability + Low readiness
+CHN,China,True,China benchmark,2024,0.778647545600244,0.8510933291354233,-0.07244578353517939,High EVI,High DRI,High vulnerability + High readiness

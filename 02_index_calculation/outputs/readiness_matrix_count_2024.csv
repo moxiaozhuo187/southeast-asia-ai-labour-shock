@@ -1,0 +1,6 @@
+﻿sample_role,readiness_quadrant,country_count
+China benchmark,High vulnerability + High readiness,1
+SEA sample,High vulnerability + High readiness,2
+SEA sample,High vulnerability + Low readiness,2
+SEA sample,Low vulnerability + High readiness,2
+SEA sample,Low vulnerability + Low readiness,2

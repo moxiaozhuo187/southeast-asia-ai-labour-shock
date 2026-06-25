@@ -1,0 +1,63 @@
+
+Data decision summary
+
+Generated time:
+2026-06-17 13:30:21
+
+Run ID:
+20260617_133021
+
+Raw download period:
+2015-2025
+
+Formal analysis period:
+2015-2024
+
+Countries:
+8 Southeast Asian countries were used as the main sample.
+China was included as an external benchmark only.
+
+Reason for excluding 2025:
+The year-level data coverage rate for 2025 was 63.89% (46/72 available data points).
+Therefore, 2025 was downloaded but excluded from the formal analysis.
+
+Formal missing values:
+There were 2 missing data points in the 2015-2024 formal analysis panel before indicator selection and cleaning.
+
+EVI input indicators kept in the core dataset:
+1.Employment in industry
+2.Employment in agriculture
+3.Employment in services
+4.Total unemployment
+5.Youth unemployment
+
+DRI input indicators kept in the core dataset:
+1.Internet users
+2.Mobile cellular subscriptions
+3.Fixed broadband subscriptions
+
+DRI indicator decision:
+No DRI indicator was excluded from the core dataset. Fixed broadband subscriptions were retained in the core DRI 
+because the formal analysis panel only had two end-of-series DRI missing values for Laos in 2024,
+and both were handled using forward fill.
+
+Missing value treatment:
+Forward fill was applied within each country-indicator time series after sorting by country,indicator and year.
+This rule was applied to the core dataset, including the service employment indicator kept for the EVI robustness version.
+
+Limitation of forward fill:
+Forward fill assumes that the latest available value can be used as a conservative proxy for the missing year.
+This assumption is more acceptable for a small number of end-of-series missing values, but it may be less accurate 
+for middle-of-series gaps or indicators that change rapidly.
+Therefore, all imputed values were flagged using was_imputed and recorded in the imputation audit file.
+
+Imputed values:
+- 2024,Laos,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),method=ffill
+- 2024,Laos,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),method=ffill
+
+Remaining missing values:
+No missing values remain in the core dataset after cleaning.
+
+China treatment:
+China can be shown in index comparison and visualisation.
+China should not be included in Southeast Asia regional average or K-means clustering.

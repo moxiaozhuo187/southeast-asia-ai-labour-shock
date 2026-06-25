@@ -1,0 +1,73 @@
+﻿country_code,country_name,is_benchmark,indicator_code,indicator_name,indicator_group,total_years,available_years,missing_years_count,missing_years,first_available_year,latest_available_year,coverage_rate
+IDN,Indonesia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+IDN,Indonesia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+IDN,Indonesia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+IDN,Indonesia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+IDN,Indonesia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+IDN,Indonesia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+IDN,Indonesia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,11,11,0,[],2015,2025,1.0
+IDN,Indonesia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,11,11,0,[],2015,2025,1.0
+KHM,Cambodia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+KHM,Cambodia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+KHM,Cambodia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+KHM,Cambodia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+KHM,Cambodia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+KHM,Cambodia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+KHM,Cambodia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,11,11,0,[],2015,2025,1.0
+KHM,Cambodia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,11,11,0,[],2015,2025,1.0
+LAO,Laos,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,11,9,2,"[2024, 2025]",2015,2023,0.8181818181818182
+LAO,Laos,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,11,9,2,"[2024, 2025]",2015,2023,0.8181818181818182
+LAO,Laos,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+LAO,Laos,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+LAO,Laos,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+LAO,Laos,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+LAO,Laos,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,11,11,0,[],2015,2025,1.0
+LAO,Laos,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,11,11,0,[],2015,2025,1.0
+MYS,Malaysia,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+MYS,Malaysia,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+MYS,Malaysia,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+MYS,Malaysia,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+MYS,Malaysia,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+MYS,Malaysia,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+MYS,Malaysia,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,11,11,0,[],2015,2025,1.0
+MYS,Malaysia,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,11,11,0,[],2015,2025,1.0
+PHL,Philippines,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+PHL,Philippines,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+PHL,Philippines,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+PHL,Philippines,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+PHL,Philippines,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+PHL,Philippines,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+PHL,Philippines,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,11,11,0,[],2015,2025,1.0
+PHL,Philippines,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,11,11,0,[],2015,2025,1.0
+SGP,Singapore,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+SGP,Singapore,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+SGP,Singapore,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+SGP,Singapore,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+SGP,Singapore,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+SGP,Singapore,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+SGP,Singapore,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,11,11,0,[],2015,2025,1.0
+SGP,Singapore,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,11,11,0,[],2015,2025,1.0
+THA,Thailand,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+THA,Thailand,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+THA,Thailand,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+THA,Thailand,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+THA,Thailand,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+THA,Thailand,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+THA,Thailand,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,11,11,0,[],2015,2025,1.0
+THA,Thailand,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,11,11,0,[],2015,2025,1.0
+VNM,Vietnam,False,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+VNM,Vietnam,False,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+VNM,Vietnam,False,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+VNM,Vietnam,False,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+VNM,Vietnam,False,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+VNM,Vietnam,False,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+VNM,Vietnam,False,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,11,11,0,[],2015,2025,1.0
+VNM,Vietnam,False,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,11,11,0,[],2015,2025,1.0
+CHN,China,True,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+CHN,China,True,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),DRI,11,10,1,[2025],2015,2024,0.9090909090909091
+CHN,China,True,IT.NET.USER.ZS,Individuals using the Internet (% of population),DRI,11,11,0,[],2015,2025,1.0
+CHN,China,True,SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+CHN,China,True,SL.IND.EMPL.ZS,Employment in industry (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+CHN,China,True,SL.SRV.EMPL.ZS,Employment in services (% of total employment),EVI,11,11,0,[],2015,2025,1.0
+CHN,China,True,SL.UEM.1524.ZS,Youth unemployment (% of total labor force ages 15-24),EVI,11,11,0,[],2015,2025,1.0
+CHN,China,True,SL.UEM.TOTL.ZS,"Unemployment,total (% of total labor force)",EVI,11,11,0,[],2015,2025,1.0

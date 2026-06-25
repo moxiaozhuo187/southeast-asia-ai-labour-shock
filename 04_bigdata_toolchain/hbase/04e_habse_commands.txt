@@ -1,0 +1,47 @@
+# HBase shell commands used for the country-year profile store
+
+# Step 1: Prepare HBase input file in Linux shell
+
+cd /home/maria_dev
+
+hadoop fs -get /user/maria_dev/labour_shock/input/tool_index_2015_2024.csv /home/maria_dev/tool_index_2015_2024.csv
+
+head -5 /home/maria_dev/tool_index_2015_2024.csv
+
+python 04e_generate_hbase_puts.py
+
+head -20 04e_hbase_puts.hbase
+
+# Step 2: Create HBase table
+
+hbase shell
+
+list
+
+create 'labour_profile','meta','vulnerability','readiness','result'
+
+describe 'labour_profile'
+
+exit
+
+# Step 3: Load generated put commands into HBase
+
+# This command should be run in Linux shell, not inside HBase shell.
+
+hbase shell 04e_hbase_puts.hbase
+
+# Step 4: Query HBase table
+
+hbase shell
+
+count 'labour_profile'
+
+get 'labour_profile','IDN#2024'
+
+get 'labour_profile','CHN#2024'
+
+get 'labour_profile','SGP#2024'
+
+scan 'labour_profile', {LIMIT => 5}
+
+exit
