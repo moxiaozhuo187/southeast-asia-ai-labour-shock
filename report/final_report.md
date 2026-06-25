@@ -5,14 +5,11 @@
 \### A Comparative Big Data Analysis with China as a Benchmark
 
 
+**Course:** STQD6324 Data Management  
 
-\*\*Course:\*\* STQD6324 Data Management  
+**Dataset:** World Bank Open Data API  
 
-\*\*Dataset:\*\* World Bank Open Data API  
-
-\*\*Analysis period:\*\* 2015–2024  
-
-
+**Analysis period:** 2015–2024  
 
 
 
