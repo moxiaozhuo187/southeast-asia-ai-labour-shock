@@ -267,9 +267,9 @@ Services employment is not in the main EVI because the direction is ambiguous, a
 
 ```text
 
-EVI\_robust\_010 = 0.90 × EVI\_main + 0.10 × srv\_emp\_n
+EVI_robust_010 = 0.90 × EVI_main + 0.10 × srv_emp_n
 
-EVI\_robust\_020 = 0.80 × EVI\_main + 0.20 × srv\_emp\_n
+EVI_robust_020 = 0.80 × EVI_main + 0.20 × srv_emp_n
 
 ```
 
@@ -289,7 +289,7 @@ DRI is a simple equal-weighted average of the three normalized digital indicator
 
 ```text
 
-DRI = (net\_user\_n + mobile\_sub\_n + broadband\_n) / 3
+DRI = (net_user_n + mobile_sub_n + broadband_n) / 3
 
 ```
 
@@ -309,7 +309,7 @@ The risk gap is the main comparison metric:
 
 ```text
 
-risk\_gap = EVI - DRI
+risk_gap = EVI - DRI
 
 ```
 
@@ -697,11 +697,11 @@ Hive external tables were created pointing directly to the HDFS CSV files. Three
 
 
 
-- `country\_year\_index` — the full EVI/DRI/risk gap panel (90 rows)
+- `country_year_index` — the full EVI/DRI/risk gap panel (90 rows)
 
-- `core\_long` — the long-format core indicator dataset (720 rows)
+- `core_long` — the long-format core indicator dataset (720 rows)
 
-- `sea\_cluster` — the K-means cluster result (8 rows)
+- `sea_cluster` — the K-means cluster result (8 rows)
 
 
 
@@ -723,11 +723,11 @@ The first query confirmed that all three tables loaded correctly:
 
 ```text
 
-country\_year\_index = 90 rows
+country_year_index = 90 rows
 
-core\_long = 720 rows
+core_long = 720 rows
 
-sea\_cluster = 8 rows
+sea_cluster = 8 rows
 
 ```
 
@@ -827,11 +827,11 @@ The comparison between Spark and Python produced:
 
 ```text
 
-max\_evi\_diff = 0.0
+max_evi_diff = 0.0
 
-max\_dri\_diff = 0.0
+max_dri_diff = 0.0
 
-max\_risk\_gap\_diff = 0.0
+max_risk_gap_diff = 0.0
 
 ```
 
@@ -944,7 +944,6 @@ EVI records = 450
 DRI records = 270
 
 
-
 Per country:
 
 EVI = 50 rows (5 indicators × 10 years)
@@ -986,7 +985,6 @@ Table name: labour_profile
 Row key:  country_code#year  (e.g. IDN#2024, CHN#2024, SGP#2024)
 
 
-
 Column families:
 
 meta → country_name, is_benchmark, year
@@ -995,7 +993,7 @@ vulnerability → evi_main
 
 readiness → dri
 
-result  → risk_gap
+result → risk_gap
 
 ```
 
