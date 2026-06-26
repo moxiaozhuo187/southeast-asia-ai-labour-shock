@@ -677,7 +677,7 @@ Each tool had a specific role:
 
 
 
-The input files for the Hadoop toolchain were prepared in `04\_bigdata\_toolchain/bigdata\_input/`. The original indicator data includes a field called `indicator\_name` which contains embedded commas that would break comma-delimited parsing in Hive and Pig. The bigdata\_input files remove this field and keep only the columns needed for toolchain validation. Header and no-header versions were both generated — no-header versions for Hive and Pig, header versions for Spark.
+The input files for the Hadoop toolchain were prepared in `04_bigdata_toolchain/bigdata_input/`. The original indicator data includes a field called `indicator_name` which contains embedded commas that would break comma-delimited parsing in Hive and Pig. The bigdata_input files remove this field and keep only the columns needed for toolchain validation. Header and no-header versions were both generated — no-header versions for Hive and Pig, header versions for Spark.
 
 
 
@@ -1025,9 +1025,9 @@ All 9 countries' 2024 profiles were written into HBase using a Python script tha
 
 ![HBase IDN 2024 point query](../04_bigdata_toolchain/screenshots/04e_hbase_get_idn.png)
 
-![HBase IDN 2024 point query](../04_bigdata_toolchain/screenshots/04e_hbase_get_chn.png)
+![HBase CHN 2024 point query](../04_bigdata_toolchain/screenshots/04e_hbase_get_chn.png)
 
-![HBase IDN 2024 point query](../04_bigdata_toolchain/screenshots/04e_hbase_get_sgp.png)
+![HBase SGP 2024 point query](../04_bigdata_toolchain/screenshots/04e_hbase_get_sgp.png)
 
 ```text
 
@@ -1090,7 +1090,7 @@ Indonesia's 2024 numbers are the clearest in the dataset: EVI above 0.59, DRI ar
 
 Looking at the three DRI components, Indonesia's weakness is most visible in fixed broadband and internet penetration, both of which are below the SEA median. Mobile connectivity is relatively stronger but still not enough to compensate. This matters because the DRI gap is the specific reason the risk gap stays positive — if Indonesia's DRI were at Malaysia's level, the risk gap would already be negative.
 
-The practical priority is fixed broadband and internet access, not workforce reskilling. Reskilling depends on connectivity. If workers and businesses do not have reliable digital access, adaptation programmes cannot scale. For Indonesia, infrastructure comes before training.
+The practical priority is fixed broadband and internet access before relying on large-scale workforce reskilling. Reskilling depends on connectivity. If workers and businesses do not have reliable digital access, adaptation programmes cannot scale. For Indonesia, infrastructure comes before training.
 
 ### 6.2 Philippines — The Borderline Case
 
@@ -1112,7 +1112,7 @@ For Singapore, the question is maintaining its advantage as AI deployment accele
 
 ### 6.4 Malaysia and Vietnam — Buffer Exists, But Not Permanent
 
-Malaysia and Vietnam both have above-median EVI and above-median DRI. In 2024, Malaysia's risk gap is slightly negative and Vietnam's is also near zero or slightly negative. This is a better position than Indonesia or the Philippines, but it is not static.
+Malaysia and Vietnam both have above-median EVI and above-median DRI. In 2024, Malaysia's risk gap is slightly negative, while Vietnam's is more clearly negative. This is a better position than Indonesia or the Philippines, but it is not static.
 
 The risk gap for both countries has improved over 2015–2024, but it tracks closely — DRI has been catching up with EVI rather than pulling significantly ahead. If the pace of AI adoption in manufacturing and services accelerates faster than digital infrastructure grows, the gap could turn positive again.
 
@@ -1122,9 +1122,9 @@ The practical point is that a negative risk gap is not a solved problem. It is a
 
 ### 6.5 Laos and Cambodia — The Timing Problem
 
-Laos and Cambodia have the lowest EVI values among the eight Southeast Asian countries. But this reflects where they are in terms of industrialisation, not how protected they are. Their industrial employment shares are low, which keeps measured vulnerability down. Agricultural employment is included as a vulnerability signal in the EVI, but it is not enough on its own to push their scores above the regional median.
+Laos and Cambodia are among the lower-EVI countries in the Southeast Asian sample. But this reflects where they are in terms of industrialisation, not how protected they are. Their industrial employment shares are low, which keeps measured vulnerability down. Agricultural employment is included as a vulnerability signal in the EVI, but it is not enough on its own to push their scores above the regional median.
 
-Their DRI is also the lowest in the dataset. Both countries remain below the SEA median DRI, with Laos especially low. Both are well below the SEA median.
+Their DRI is also the lowest in the dataset. Both are well below the SEA median.
 
 The timing issue is this: Laos and Cambodia may not face strong AI-related labour displacement pressure right now, but as their economies industrialise and automation becomes more relevant, their EVI will rise. If their DRI has not improved significantly by then, they will move from low exposure to high exposure without the digital infrastructure to adapt. The cost of building that infrastructure increases once the urgency arrives.
 
