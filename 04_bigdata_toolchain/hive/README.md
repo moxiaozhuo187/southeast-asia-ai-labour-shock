@@ -4,6 +4,8 @@
 
 
 
+
+
 \- `04b\_create\_hive\_tables.sql` — run in Hive CLI to create external tables
 
 \- `04b\_hive\_queries\_readable.sql` — Hive validation queries, run via Zeppelin `%sql`
