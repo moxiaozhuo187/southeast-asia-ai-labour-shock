@@ -41,15 +41,19 @@ Negative = readiness may offset some of the pressure.
 
 ## Key Findings
 
-Indonesia has the highest positive risk gap in 2024.
+Indonesia is the clearest high-risk case. It has the highest positive risk gap in 2024, meaning its employment vulnerability is higher than its digital readiness. This is not just a one-year result — Indonesia also remains the most persistent high-risk case in the 2015–2024 trend.
 
-Singapore and Thailand ended up in the same K-means cluster. Thailand's strong mobile connectivity pushed its DRI up enough to group it with Singapore, even though the two countries are quite different overall. K-means works on indicator distance, not general development level.
+China is useful as a benchmark because it has both the highest EVI and the highest DRI in the dataset. Its 2024 risk gap is slightly negative, not because vulnerability is low, but because digital readiness is strong enough to offset it at the index level.
 
-In the K-means result, Laos, Cambodia, and the Philippines cluster as low EVI and low DRI. That is not a safe position — low vulnerability here mostly reflects that these economies have not yet reached the stage where AI displacement pressure is fully showing up, not that they are prepared.
+Singapore and Thailand ended up in the same K-means cluster. This does not mean the two countries are the same. Thailand's strong mobile connectivity pushed its DRI up enough to group it with Singapore. K-means works on indicator distance, not general development level.
 
-The quadrant analysis and K-means agree on 6 out of 8 countries. Indonesia and the Philippines are the two that diverge. Quadrant puts them in the higher-risk category. K-means places them differently because it works on distance rather than fixed thresholds. The divergence is discussed in the report.
+The Philippines is the main borderline case. K-means groups it with Laos and Cambodia, but the 2024 quadrant analysis places it in the high EVI, low DRI category together with Indonesia. This shows why clustering and threshold-based quadrant analysis need to be interpreted together.
 
-Regionally, the average risk gap turned negative around 2018–2019, meaning digital readiness has been gradually catching up. But the regional average covers a lot of variation.
+Laos and Cambodia have low measured EVI and low DRI. This should not be read as a safe position. Their current AI-related exposure is lower, but their digital readiness is also weak, which may become a problem as industrialisation and automation exposure increase.
+
+The quadrant analysis and K-means agree on 6 out of 8 Southeast Asian countries. Indonesia and the Philippines are the two divergent cases. This divergence is not a calculation error; it shows that fixed-threshold classification and distance-based clustering answer different questions.
+
+Regionally, the average risk gap turned negative around 2018–2019, meaning digital readiness has gradually caught up on average. But the regional average hides important country-level differences, especially Indonesia's persistent positive risk gap.
 
 
 
@@ -79,7 +83,7 @@ China was used only as an external benchmark. It was not included in the Southea
 | HBase | NoSQL country-year profile lookup |
 | World Bank API | data source |
 
-The Hadoop tools were used as a validation layer for the Python analysis. Hive for SQL checks, Spark to recalculate everything from scratch and confirm zero numerical difference from the Python results, Pig to audit the data structure, HBase to store and query selected country-year profiles.
+The Hadoop tools were used as a validation layer for the Python analysis. Hive was used for SQL checks, Spark independently recalculated EVI, DRI, risk gap, and K-means results, Pig audited the long-format data structure, and HBase stored and queried selected country-year profiles.
 
 
 
