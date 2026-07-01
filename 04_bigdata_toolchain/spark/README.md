@@ -6,4 +6,4 @@
 To import the Zeppelin note:
 1. Open Zeppelin at `127.0.0.1:9995`
 2. Click the import button on the main page
-3. Select `04c_Zeppelin_Pyspark_validation.json`
+3. Select `04c_Zeppelin_Pyspark_validation.json` 
