@@ -2,7 +2,7 @@ Pig was used as a lightweight ETL audit tool for the long-format core indicator 
 
 
 
-In the HDP sandbox environment, TEZ/YARN execution was unstable during Pig execution, so Pig was run in local mode. This was an environment adaptation and did not change the audit logic.
+In the HDP sandbox environment, TEZ/YARN execution was unstable during Pig execution, so Pig was run in local mode. This was an environment adaptation and did not change the audit logic. 
 
 
 
