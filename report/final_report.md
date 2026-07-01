@@ -21,7 +21,7 @@
 
 
 
-I chose this topic because I am studying in Malaysia and I have been genuinely curious about how different Southeast Asian countries actually are from each other — not just in terms of GDP or general development, but in terms of how their labour markets are structured and how ready they are for the kind of changes that AI is starting to bring.
+I chose this topic because I am studying in Malaysia and I have been genuinely curious about how different Southeast Asian countries actually are from each other, not just in terms of GDP or general development, but in terms of how their labour markets are structured and how ready they are for the kind of changes that AI is starting to bring.
 
 
 
