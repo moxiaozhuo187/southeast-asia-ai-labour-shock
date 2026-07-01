@@ -31,7 +31,7 @@ exit
 hbase shell 04e_hbase_puts.hbase
 
 # Step 4: Query HBase table
-
+ 
 hbase shell
 
 count 'labour_profile'
